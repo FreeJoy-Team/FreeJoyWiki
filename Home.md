@@ -4,8 +4,8 @@ Welcome to the FreeJoyConfigurator wiki!
 Just download the [latest release]() and run the installer.
 
 # Getting started
-* [Quickstart guide]()
 * [Digital inputs (buttons) configuration]()
 * [Analog inputs (axes) configuration]()
 * [Advanced settings]()
+* [Loading saving configuration]()
 * [Firmware flasher]()
