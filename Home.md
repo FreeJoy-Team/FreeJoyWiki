@@ -4,6 +4,7 @@ Welcome to the FreeJoyConfigurator wiki!
 Just download the [latest release]() and run the installer.
 
 # Getting started
+* [Pins configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Pins-configuration)
 * [Digital inputs (buttons) configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Digital-inputs-configuration)
 * [Analog inputs (axes) configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Analog-inputs-configuration)
 * [Loading saving configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Loading-and-saving-configuration)
