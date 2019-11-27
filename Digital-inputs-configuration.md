@@ -25,7 +25,9 @@ Buttons in matrix counted from first column and first row like this:
 |---------------|------------|---------------|
 | Col 1 | Row 1 | Button 1 |
 | Col 1 | Row 2 | Button 2 |
+|---------------|------------|---------------|
 | Col 1 | Row N | Button N |
 | Col 2 | Row 1 | Button N+1 |
 | Col 2 | Row 2 | Button N+2 |
+|---------------|------------|---------------|
 | Col M | Row N | Button N*M |
