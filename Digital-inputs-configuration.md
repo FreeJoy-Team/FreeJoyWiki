@@ -44,3 +44,8 @@ Each digital input can be configured as:
 | Incremental encoder input A | Short press at encoder step CW |
 | Incremental encoder input B | Short press at encoder step CCW |
 
+## Encoders
+
+You can connect as many encoders as your digital pins allow. Both A and B encoder pin must be defined. In case of pin A defined an unused pin B with lowest number will be mapped to same encoder. Example (inputs with same color correspond same encoder):
+
+<img src="https://a.radikal.ru/a20/1911/44/c7ad81d64a4e.png">
