@@ -24,3 +24,11 @@ This will help to avoid negative affects at pushing several buttons at the same 
 
 ### Connecting Single buttons
 
+Single buttons can be connected as "active high" and "active low" buttons. The most common connection is "active low" when the first pin of button is connected to controller's pin and the second pin of button is connected to GND (shown at picture below)
+<img src="https://c.radikal.ru/c13/1911/c5/6826d87c904a.png">
+
+In this case select Button GND at expanding menu near needed pin. Controller will provide internal pull-up for chosen input and no external components are needed. 
+The other way the second pin on the button is connected to 3.3V, so Button VCC option must be selected. Controller will provide internal pull-down for selected pin
+
+### Connecting matrix of buttons 
+
