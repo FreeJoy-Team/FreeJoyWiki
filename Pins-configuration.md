@@ -10,7 +10,7 @@ There are three ways to connect digital inputs:
 * Single buttons
 * Matrix of buttons
 
-### Connecting Single buttons
+### Connecting single buttons
 
 Single buttons can be connected as "active high" and "active low" buttons. The most common connection is "active low" when the first pin of button is connected to controller's pin and the second pin of button is connected to GND (shown at picture below)
 
