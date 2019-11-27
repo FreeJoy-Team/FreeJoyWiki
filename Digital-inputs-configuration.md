@@ -19,7 +19,7 @@ There are two ways to connect digital inputs:
 
 In case of connecting buttons in matrix it is highly recommended to use schematic with diodes:
 
-<img src="https://c.radikal.ru/c17/1911/9e/553f1f221bbd.png" height=500>
+<img src="https://c.radikal.ru/c17/1911/9e/553f1f221bbd.png" height=400>
 
 This will help to avoid negative affects at pushing several buttons at the same time.
 
