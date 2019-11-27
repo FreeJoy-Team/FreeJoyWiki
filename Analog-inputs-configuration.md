@@ -72,4 +72,4 @@ For your convenience there are 4 presets available. To apply the preset just pre
 
 ## Saving changes
 
-For applying axis configuration and saving it to the device press button "Write Config to Device".
+For applying axes configuration and saving it to the device press button "Write Config to Device".
