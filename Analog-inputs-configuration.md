@@ -9,6 +9,8 @@ Settings for analog inputs are represented at "Axes Config" and "Axes Curves" ta
 
 <img src="https://a.radikal.ru/a19/1911/da/702abddd2060.png">
 
+Before calibration you should be sure the correct pins for analog inputs are chosen in "Pin Config" tab and configuration is written to the device.
+
 ## Calibration
 
 By default all inputs calibrated to fullscale range 0-4095. You can choose one of two options for calibration:
@@ -34,7 +36,7 @@ In case you have asymmetrical axis input you can set center position. Do do this
 
 After writing config to the device you will see that device now scaling input data to the lower and higher limits and logical center corresponds the physical neutral position:
 
-<img srrc="https://a.radikal.ru/a36/1911/6b/d7a48d7ec165.png">
+<img src="https://a.radikal.ru/a36/1911/6b/d7a48d7ec165.png">
 
 ### Automatic calibration
 
