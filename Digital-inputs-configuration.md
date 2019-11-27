@@ -22,6 +22,7 @@ Single buttons count starting from lowest number of pin at port A (A0, A1, A2...
 Buttons in matrix counted from first column and first row like this:
 
 | Column Number | Row Number | Button Number |
+|---------------|------------|---------------|
 | Col 1 | Row 1 | Button 1 |
 | Col 1 | Row 2 | Button 2 |
 | Col 1 | Row N | Button N |
