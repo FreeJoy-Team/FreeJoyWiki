@@ -6,7 +6,7 @@ There are several advanced settings for the device:
 * Encoder press time
 * USB exchange period
 
-## USB Device name
+### USB Device name
 
 This name will be shown at system dispatcher of game controllers.
 
