@@ -1,21 +1,10 @@
-FreeJoy supports up to 128 digital inputs. Each can be configured as:
-
-* Normal push button
-* Inverted push button
-* Button toggle
-* Toggle switch ON/OFF
-* Toggle switch ON
-* Toggle switch OFF
-* POV hat button
-* Incremental encoder input
-
-Digital inputs are configured at "Button Config" tab.
+FreeJoy supports up to 128 digital inputs. Digital inputs are configured at "Button Config" tab.
 
 <img src="https://a.radikal.ru/a42/1911/6c/76b195613953.png">
 
 Before configuring digital inputs make sure the correct pins configuration is written to the device.
 
-## Configuring buttons
+## Button mappings
 
 By default all digital buttons set to Normal push button. 
 Single buttons count starting from lowest number of pin at port A (A0, A1, A2...A7, B0, B1...). 
@@ -32,8 +21,26 @@ Buttons in matrix counted from first column and first row like this:
 | --- | --- | --- |
 | Col M | Row N | Button N*M |
 
-If pin configuration is written to the device FreeJoy Configurator indicates when button is pushed by gree background:
+If pin configuration is written to the device FreeJoy Configurator indicates when button is pushed by green background:
 
 <img src="https://c.radikal.ru/c12/1911/0c/902081569054.png">
+
+## Button configuration
+
+Each digital input can be configured as:
+
+| Input mode | Action |
+|------------|--------|
+| Normal push button | Logical high when pressed |
+| Inverted push button | Logical low when pressed |
+| Button toggle | Change logical state at press action |
+| Toggle switch ON/OFF | Short press when state changes |
+| Toggle switch ON | Short press when state changes from released to pressed |
+| Toggle switch OFF | Short press when state changes from pressed to released |
+| POV hat button left | POV |
+| POV hat button right | POV |
+| POV hat button up | POV |
+| POV hat button down | POV |
+| Incremental encoder input | Short press at encoder step |
 
 
