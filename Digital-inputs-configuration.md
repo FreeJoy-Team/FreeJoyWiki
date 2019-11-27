@@ -49,3 +49,7 @@ Each digital input can be configured as:
 You can connect as many encoders as your digital pins allow. Both A and B encoder pin must be defined. In case of pin A defined an unused pin B with lowest number will be mapped to same encoder. Example (inputs with same color correspond same encoder):
 
 <img src="https://a.radikal.ru/a20/1911/44/c7ad81d64a4e.png">
+
+## Saving changes
+
+For applying digital inputs configuration and saving it to the device press button "Write Config to Device".
