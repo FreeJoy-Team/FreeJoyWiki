@@ -70,4 +70,4 @@ For your convenience there are 4 presets available. To apply the preset just pre
 
 <img src="https://d.radikal.ru/d40/1911/23/26150c28d8d1.png">
 
-  
+**For applying axis configuration press button "Write Config to Device"** 
