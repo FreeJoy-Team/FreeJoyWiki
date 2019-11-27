@@ -28,7 +28,9 @@ Then set set axis to the highest position and set "Maximum" value to the current
 
 <img src="https://d.radikal.ru/d42/1911/8d/bfb073aa2eed.png">
 
+In case you have asymmetrical axis input you can set center position. Do do this you need to check Center checkbox, set your axis to the neutral position and set "Center" value to current Raw value:
 
+<img src="https://b.radikal.ru/b28/1911/e3/157b586a1906.png">
 
 ### Automatic calibration
 
