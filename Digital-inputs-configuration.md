@@ -47,7 +47,7 @@ For setting up buttons in a matrix select some pins of device as Rows and some a
 
 <img src="https://a.radikal.ru/a43/1911/f0/e7ca5db4dbfe.png">
 
-After setting up matrix buttons you will see its total count at "Current Config" panel:
+After setting up matrix buttons you will see total buttons count at "Current Config" panel:
 
 <img src="https://d.radikal.ru/d26/1911/4f/bba505ec9957.png">
 
