@@ -41,6 +41,6 @@ Each digital input can be configured as:
 | POV hat button right | POV |
 | POV hat button up | POV |
 | POV hat button down | POV |
-| Incremental encoder input | Short press at encoder step |
-
+| Incremental encoder input A | Short press at encoder step CW |
+| Incremental encoder input B | Short press at encoder step CCW |
 
