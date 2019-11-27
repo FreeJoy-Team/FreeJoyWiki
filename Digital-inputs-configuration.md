@@ -10,6 +10,7 @@ FreeJoy supports up to 128 digital inputs. Each can be configured as:
 
 ## Connection
 Digital inputs can be connected to any pin available in the "Pin Config" tab:
+
 <img src="https://d.radikal.ru/d34/1911/ba/4aec9a66b7b0.png">
 
 There are two ways to connect digital inputs:
@@ -17,6 +18,7 @@ There are two ways to connect digital inputs:
 * Matrix of buttons
 
 In case of connecting buttons in matrix it is highly recommended to use schematic with diodes:
+
 <img src="https://habrastorage.org/files/5b6/8bf/f0f/5b68bff0fcf043eaac33246af5320dd1.png" height=500>
 
 This will help to avoid negative affects at pushing several buttons at the same time.
@@ -33,7 +35,8 @@ In this case select Button GND at expanding menu near needed pin.
 <img src="https://c.radikal.ru/c03/1911/46/f4c4703f1e1d.png">
 
 Controller will provide internal pull-up for chosen input and no external components are needed. 
-The other way the second pin on the button is connected to 3.3V, so Button VCC option must be selected. Controller will provide internal pull-down for selected pin
+
+In the other way the second pin on the button is connected to 3.3V, so Button VCC option must be selected. Controller will provide internal pull-down for selected pin
 
 ### Connecting matrix of buttons 
 
