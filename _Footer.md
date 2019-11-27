@@ -1,1 +1,0 @@
-Thanks to [OpenSimHardware](https://github.com/OpenSimHardware) team for the idea and the inspiration. [Pedal & Button Controller](https://github.com/OpenSimHardware/PedalButtonController) project gave me the vector to start this work.
