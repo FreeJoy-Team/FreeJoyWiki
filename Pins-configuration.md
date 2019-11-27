@@ -46,4 +46,6 @@ After setting up matrix buttons you will see total buttons count at "Current Con
 
 As you can see from the image above you can combine single and matrix buttons in your configuration.
 
-  
+## Saving changes
+
+For applying axis configuration and saving it to the device press button "Write Config to Device".
