@@ -31,3 +31,9 @@ Buttons in matrix counted from first column and first row like this:
 | Col 2 | Row 2 | Button N+2 |
 | --- | --- | --- |
 | Col M | Row N | Button N*M |
+
+If pin configuration is written to the device FreeJoy Configurator indicates when button is pushed by gree background:
+
+<img src="https://c.radikal.ru/c12/1911/0c/902081569054.png">
+
+
