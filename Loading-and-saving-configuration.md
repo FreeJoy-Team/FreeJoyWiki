@@ -9,4 +9,5 @@ The saved file is an XML file that can be opened by any XML reader.
 
 For loading configuration from file press button "Load Config from File". Choose file to load configuration from and press "Open". Configuration will be loaded. 
 
-**Warning!** Loading of externally modified configuration file may cause unpredictable behavior of device.
+**Warning!** 
+**Loading of externally modified configuration file may cause unpredictable behavior of device.**
