@@ -32,6 +32,10 @@ In case you have asymmetrical axis input you can set center position. Do do this
 
 <img src="https://b.radikal.ru/b28/1911/e3/157b586a1906.png">
 
+After writing config to the device you will see that device now scaling input data to the lower and higher limits and logical center corresponds the physical neutral position:
+
+<img srrc="https://a.radikal.ru/a36/1911/6b/d7a48d7ec165.png">
+
 ### Automatic calibration
 
 Is case of automatic calibration after startup the high limit is set to 0 and the low limit is set to 4095. Device is looking for lowest and highest values at analog input and set corresponding values to the limits. So if autocalibration is enabled you need to set the axis to the lowest position and then to the highest position after each startup. The center value will be calculated as (CalibMax-CalibMin)/2.
