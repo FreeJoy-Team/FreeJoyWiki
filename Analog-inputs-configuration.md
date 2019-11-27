@@ -41,3 +41,20 @@ After writing config to the device you will see that device now scaling input da
 ### Automatic calibration
 
 Is case of automatic calibration after startup the high limit is set to 0 and the low limit is set to 4095. Device is looking for lowest and highest values at analog input and set corresponding values to the limits. So if autocalibration is enabled you need to set the axis to the lowest position and then to the highest position after each startup. The center value will be calculated as (CalibMax-CalibMin)/2.
+For enabling automatic calibration check "Autocalibration" checkbox for the corresponding axis.
+
+## Invertion
+
+Every axis can be logically inverted by checking "Inverted" checkbox for corresponding axis
+
+## Smoothing
+
+You can set smoothing for every axis by dragging "Smoothing" slider. There are 4 levels of smoothing:
+
+* Off
+* Low
+* Medium
+* High
+
+## Curve shaping
+
