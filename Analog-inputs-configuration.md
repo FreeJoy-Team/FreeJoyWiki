@@ -58,3 +58,16 @@ You can set smoothing for every axis by dragging "Smoothing" slider. There are 4
 
 ## Curve shaping
 
+You can set a custom curve shape for every axis. This settings and represented at "Axes Curves" tab:
+
+<img src="https://d.radikal.ru/d20/1911/ed/b4a208040b8c.png">
+
+There are 10 points you can drag for setting the custom curve shape:
+
+<img src="https://d.radikal.ru/d23/1911/13/b5d81f378bd1.png">
+
+For your convenience there are 4 presets available. To apply the preset just press on it: 
+
+<img src="https://d.radikal.ru/d40/1911/23/26150c28d8d1.png">
+
+  
