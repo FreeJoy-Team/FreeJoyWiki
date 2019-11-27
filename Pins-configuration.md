@@ -1,0 +1,1 @@
+Device pins can be configured is digital input and analog inputs.
