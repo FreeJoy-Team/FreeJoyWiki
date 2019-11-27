@@ -9,7 +9,7 @@ Settings for analog inputs are represented at "Axes Config" and "Axes Curves" ta
 
 <img src="https://a.radikal.ru/a19/1911/da/702abddd2060.png">
 
-Before calibration you should be sure the correct pins for analog inputs are chosen in "Pin Config" tab and configuration is written to the device.
+Before axis configuration you should be sure the correct pins for analog inputs are chosen in "Pin Config" tab and configuration is written to the device.
 
 ## Calibration
 
