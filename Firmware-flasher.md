@@ -11,6 +11,6 @@ If you want to flash new firmware:
 
 <img src="https://d.radikal.ru/d16/2001/87/81f5de316304.png"/>
 
-* After device disconnects wait 5-10 seconds, unplug device and plug it again
+* When device disconnects wait 5-10 seconds, unplug device and plug it again
 
 After these steps device should be flashed with new firmware.
