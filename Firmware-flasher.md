@@ -13,4 +13,4 @@ If you want to flash new firmware:
 
 * When device disconnects wait 5-10 seconds, unplug device and plug it again
 
-After these steps device should be flashed with new firmware.
+After these steps device will be flashed with new firmware.
