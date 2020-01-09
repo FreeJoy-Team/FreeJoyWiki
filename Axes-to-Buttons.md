@@ -10,4 +10,4 @@ Then this axis become available in "Axes to buttons" tab:
 
 You can define up to 10 buttons per axis and set their analog value ranges. These buttons will be added to the end of list of physical buttons.
 
-All analog inputs settings like calibration and curve shapes are still functional, AxesToButtons is a layer over standard axis logic.
+All analog inputs settings like calibration and curve shapes are still functional, AxesToButtons is a layer over standard axis logic. To learn more about axis configuration see [analog inputs configuration page](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Analog-inputs-configuration).
