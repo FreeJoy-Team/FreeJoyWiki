@@ -30,6 +30,8 @@ Buttons priority is (higher priority - lower number):
 3. **Axes to buttons**
 4. **Single buttons**
 
+### Indication
+
 If pin configuration is written to the device FreeJoy Configurator indicates when button is pushed by green background:
 
 <img src="https://c.radikal.ru/c12/1911/0c/902081569054.png">
