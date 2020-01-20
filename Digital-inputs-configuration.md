@@ -52,4 +52,6 @@ You can connect as many encoders as your digital pins allow. Both A and B encode
 
 ## Saving changes
 
-For applying digital inputs configuration and saving it to the device press button "Write Config to Device".
+For applying pins configuration and saving it to the device press button **"Write Config to Device"** and wait for **"Config Written"** message appeared:
+
+<img src="https://d.radikal.ru/d33/2001/03/d9b2a553a823.png"/>
