@@ -23,4 +23,9 @@ Any pin except of B3, B5 and B6 can be used for CS connection.
 
 ## Operation
 
-TLE501x operates as angle sensors in magnetic field. It has output values from **0** to **360** degrees (mapped to 0-4095 output). If your sensor's output cross from **4095** to **0** while calibration/operation you need to check **"Magnet offset"** on **"Axes Config"** tab.
+TLE501x operates as angle sensors in magnetic field. It has output values from **0** to **360** degrees (mapped to 0-4095 output). If your sensor's output cross from **4095** to **0** while calibration/operation you need to check **"Magnet offset"** on **"Axes Config"** tab:
+
+<img src="https://a.radikal.ru/a13/2001/86/f85a809e3646.png"/>
+
+
+
