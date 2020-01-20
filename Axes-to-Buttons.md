@@ -6,6 +6,6 @@ AxisToButton function can be set to any of enabled axes. To enable this function
 
 You can define up to 12 buttons per axis and set their analog value ranges. These buttons will be added to the end of list of physical buttons:
 
-<img src="https://b.radikal.ru/b05/2001/73/d705ac735593.png"/>
+<img src="https://c.radikal.ru/c42/2001/c5/b15d08a89f62.png"/>
 
 All analog inputs settings like calibration and curve shapes are still functional, AxesToButtons is a layer over standard axis logic. To learn more about axis configuration see [analog inputs configuration page](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Analog-inputs-configuration).
