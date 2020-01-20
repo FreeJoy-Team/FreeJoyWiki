@@ -13,13 +13,13 @@ Only 3 wires are used to connect shift registers to FreeJoy:
 
 <img src="https://d.radikal.ru/d43/2001/6d/b46fe0d8b06e.png"/>
 
-Electrical connections of serial register 74HC165 are shown below:
+Electrical connections of serial register **74HC165** are shown below:
 
 <img src="https://a.radikal.ru/a17/2001/2b/bcf0240c12fc.jpg"/>
 
-Electrical connections of serial register CD4021 are shown below:
+Electrical connections of serial register **CD4021** are shown below:
 
-<img src=""/>
+<img src="https://c.radikal.ru/c21/2001/48/e6c6ed1fced3.jpg"/>
 
 ## Shift registers settings
 
