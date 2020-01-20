@@ -2,7 +2,7 @@ Since version v1.01 Axes to buttons feature is available.
 
 AxisToButton function can be set to any of enabled axes. To enable this function just check it on the **Axes to buttons** tab:
 
-<img src="https://a.radikal.ru/a09/2001/5c/d7dbff98ebea.pn"/>
+<img src="https://a.radikal.ru/a09/2001/5c/d7dbff98ebea.png"/>
 
 You can define up to 12 buttons per axis and set their analog value ranges. These buttons will be added to the end of list of physical buttons:
 
