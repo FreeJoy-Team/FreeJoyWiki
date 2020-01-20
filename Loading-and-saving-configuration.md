@@ -11,3 +11,6 @@ For loading configuration from file press button "Load Config from File". Choose
 
 **Warning!** 
 **Loading of externally modified configuration file may cause unpredictable behavior of device.**
+
+**Warning!** 
+**FreeJoy confgurator config files do not have back compatibility. You should not use config files created in older versions of FreeJoyConfigurator**
