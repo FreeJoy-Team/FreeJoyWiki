@@ -41,8 +41,23 @@ After writing config to the device you will see that device now scaling input da
 
 ### Automatic calibration
 
-Is case of automatic calibration after startup the high limit is set to 0 and the low limit is set to 4095. Device is looking for lowest and highest values at analog input and set corresponding values to the limits. So if autocalibration is enabled you need to set the axis to the lowest position and then to the highest position after each startup. The center value will be calculated as (CalibMax-CalibMin)/2.
-For enabling automatic calibration check "Autocalibration" checkbox for the corresponding axis.
+For automatic calibration: 
+
+* Press button **"Start calibration"**
+* Set your axis to **minimum** position, hold for a second
+* Set your axis to **maximum** position, hold for a second
+* Set your axis to **neutral** (center position) and press **"Stop calibration"** button
+
+After this your calibration values are ready to be written to the board.
+
+## Magnet offset
+
+This feature allows you to shift axis output by half of its fullscale value. This may be helpful when your magnetic field sensor output crossing from **4095** to **0** while calibration.
+
+## Resolution
+
+It is possible to set axis resolution lower than 12 bit for some reasons (noise cancellation, etc.)
+Axis resolution can be set from 1 bit to 12 bits.
 
 ## Invertion
 
