@@ -25,7 +25,7 @@ Electrical connections of serial register **CD4021** are shown below:
 
 ## Shift registers settings
 
-After setting proper pins for connection shift registers ICs if should change settings on **Shift Registers** tab:
+After setting proper pins for connection shift registers ICs you should change settings on **Shift Registers** tab:
 
 <img src="https://a.radikal.ru/a34/2001/1e/68cdb5679c94.png"/>
 
