@@ -14,6 +14,11 @@ Settings for analog inputs are represented at "Axes Config" and "Axes Curves" ta
 
 Before axis configuration make sure the correct pins for analog inputs or digital sensors are chosen in "Pin Config" tab and configuration is written to the device.
 
+## Output control
+
+You can disable output from your axis to the system, but all overlaying functions will be still working.
+This function can be useful when **AxesToButtons** is used. Your buttons from axis will be operational but the axis will not (to prevent conflicts while mapping buttons in a game)
+
 ## Calibration
 
 By default all inputs calibrated to fullscale range 0-4095. You can choose one of two options for calibration:
