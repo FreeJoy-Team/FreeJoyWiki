@@ -57,7 +57,7 @@ This feature allows you to shift axis output by half of its fullscale value. Thi
 ## Resolution
 
 It is possible to set axis resolution lower than 12 bit for some reasons (noise cancellation, etc.)
-Axis resolution can be set from 1 bit to 12 bits.
+Axis resolution can be set from **1** bit to **12** bits.
 
 ## Invertion
 
