@@ -7,8 +7,10 @@ Device pins can be configured is buttons (digital inputs) and analog inputs. Pin
 Analog inputs can be connected to pins A0-A7. Digital pins can be connected to any of available pins.
 
 There are three ways to connect digital inputs:
-* Single buttons
+
 * Matrix of buttons
+* Shift registes
+* Single buttons
 
 ### Connecting single buttons
 
