@@ -25,10 +25,10 @@ Buttons in matrix counted from first column and first row like this:
 
 Buttons priority is (higher priority - lower number):
 
-**1. Matrix buttons**
-**2. Shift registers**
-**3. Axes to buttons**
-**4. Single buttons**
+1. **Matrix buttons**
+2. **Shift registers**
+3. **Axes to buttons**
+4. **Single buttons**
 
 If pin configuration is written to the device FreeJoy Configurator indicates when button is pushed by green background:
 
