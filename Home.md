@@ -6,8 +6,10 @@ Just download the [latest release]() and run the installer.
 # Getting started
 * [Pins configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Pins-configuration)
 * [Digital inputs (buttons) configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Digital-inputs-configuration)
-* [Analog inputs (axes) configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Analog-inputs-configuration)
+* [Axes configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Axes-configuration)
 * [Axes to buttons](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Axes-to-Buttons)
+* [Shift registers](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Shift-registers)
+* [TLE501x sensors](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/TLE501x-sensors)
 * [Loading and saving configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Loading-and-saving-configuration)
 * [Advanced settings](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Advanced-settings)
 * [Firmware flasher](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Firmware-flasher)
