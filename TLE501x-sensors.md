@@ -4,7 +4,7 @@ TLE501x magnetic field sensor can be used for axes inputs. You you are using TLE
 
 In most of cases TLE501x sensors are connected to FreeJoy by 4 signal wires:
 
-* **TLE501x_CS** pin (can be connected to any pin except B3 and B6)
+* **TLE501x_CS** pin (can be connected to any pin except B3, B5 and B6)
 * **TLE501x_DATA** pin (can be connected only to B5)
 * **TLE501x_GEN** pin (can be connected only to B6)
 * **SPI_SCK** pin (can be connected only to B3)
@@ -18,3 +18,5 @@ If you are using TLE501x sensor with generator on board TLE501x_GEN connection i
 In case of using several TLE501x sensors they should be connected in a bus:
 
 <img src="https://d.radikal.ru/d30/2001/ef/18c9901ee15c.png"/>
+
+Any pin except of B3, B5 and B6 can be used for CS connection.
