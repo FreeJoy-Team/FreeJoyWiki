@@ -1,13 +1,11 @@
 Since version v1.01 Axes to buttons feature is available.
 
-Each analog pin (A0 - A7) may be configured as AxisToButton function:
+AxisToButton function can be set to any of enabled axes. To enable this function just check it on the **Axes to buttons** tab:
 
-<img src="https://d.radikal.ru/d43/2001/2f/ed92f0949500.png"/>
+<img src="https://a.radikal.ru/a09/2001/5c/d7dbff98ebea.pn"/>
 
-Then this axis become available in "Axes to buttons" tab:
+You can define up to 12 buttons per axis and set their analog value ranges. These buttons will be added to the end of list of physical buttons:
 
-<img src="https://a.radikal.ru/a04/2001/6b/9ad9984d2d1c.png"/>
-
-You can define up to 10 buttons per axis and set their analog value ranges. These buttons will be added to the end of list of physical buttons.
+<img src="https://b.radikal.ru/b05/2001/73/d705ac735593.png"/>
 
 All analog inputs settings like calibration and curve shapes are still functional, AxesToButtons is a layer over standard axis logic. To learn more about axis configuration see [analog inputs configuration page](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Analog-inputs-configuration).
