@@ -1,15 +1,18 @@
-FreeJoy supports up to 8 analog 12bit (4096 samples) inputs. Every analog input has such settings as:
+FreeJoy supports up to 8 analog 12bit (4096 samples) inputs and digital TLE501x sensors as inputs of axes. Every axis has such settings as:
 
+* Output control
 * Calibration
+* Magnet offset feature
+* Resolution
 * Invertion
 * Smoothing
 * Curve shaping
 
 Settings for analog inputs are represented at "Axes Config" and "Axes Curves" tabs.
 
-<img src="https://a.radikal.ru/a19/1911/da/702abddd2060.png">
+<img src="https://d.radikal.ru/d29/2001/60/b5f00980733c.png">
 
-Before axis configuration make sure the correct pins for analog inputs are chosen in "Pin Config" tab and configuration is written to the device.
+Before axis configuration make sure the correct pins for analog inputs or digital sensors are chosen in "Pin Config" tab and configuration is written to the device.
 
 ## Calibration
 
@@ -18,25 +21,23 @@ By default all inputs calibrated to fullscale range 0-4095. You can choose one o
 * Manual calibration
 * Automatic calibration
 
-For axes calibration calibration go to "Axis Config" tab. You will see 8 blocks for 8 analog inputs where 1st is mapped to the lowest number of pin at A port (A0 by default). 
+For axes calibration go to "Axis Config" tab. You will see 8 blocks for 8 analog inputs where 1st is mapped to the lowest number of pin at A port (A0 by default). Axes with digital sensors inputs have lowest number than axes with analog inputs.
 
 ### Manual calibration
 
 In case of manual calibration set your axis to the lowest position and set the "Minimum" value to the current Raw value:
 
-<img src="https://b.radikal.ru/b10/1911/c3/406ffb262d3f.png">
+<img src="https://c.radikal.ru/c05/2001/44/21855b13911f.png">
 
 Then set set axis to the highest position and set "Maximum" value to the current Raw value:
 
-<img src="https://d.radikal.ru/d42/1911/8d/bfb073aa2eed.png">
+<img src="https://b.radikal.ru/b16/2001/c0/b744ca79bdf9.png">
 
 In case you have asymmetrical axis input you can set center position. Do do this you need to check Center checkbox, set your axis to the neutral position and set "Center" value to current Raw value:
 
-<img src="https://b.radikal.ru/b28/1911/e3/157b586a1906.png">
+<img src="https://b.radikal.ru/b18/2001/23/b65baa2112f9.png">
 
-After writing config to the device you will see that device now scaling input data to the lower and higher limits and logical center corresponds the physical neutral position:
-
-<img src="https://a.radikal.ru/a36/1911/6b/d7a48d7ec165.png">
+After writing config to the device you will see that device now scaling input data to the lower and higher limits and logical center corresponds the physical neutral position.
 
 ### Automatic calibration
 
