@@ -16,4 +16,4 @@ Just download the [latest release]() and run the installer.
 
 
 ### References
-Thanks to [OpenSimHardware](https://github.com/OpenSimHardware) and [Pedal & Button Controller](https://github.com/OpenSimHardware/PedalButtonController) for the idea and the inspiration.
+Thanks to [OpenSimHardware](https://github.com/OpenSimHardware) with [Pedal & Button Controller](https://github.com/OpenSimHardware/PedalButtonController) project for the idea and the inspiration.
