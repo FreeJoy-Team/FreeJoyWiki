@@ -48,4 +48,6 @@ As you can see from the image above you can combine single and matrix buttons in
 
 ## Saving changes
 
-For applying pins configuration and saving it to the device press button "Write Config to Device".
+For applying pins configuration and saving it to the device press button **"Write Config to Device"** and wait for **"Config Written"** message appeared:
+
+<img src="https://d.radikal.ru/d33/2001/03/d9b2a553a823.png"/>
