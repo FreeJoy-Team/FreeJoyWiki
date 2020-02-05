@@ -18,6 +18,10 @@ Settings for axes are represented at "Axes Config" and "Axes Curves" tabs.
 
 Before axis configuration make sure the correct pins for analog inputs or digital sensors are chosen in "Pin Config" tab and configuration is written to the device.
 
+## Axis source 1
+
+Pin of main axis source. If you selected some analog axes or digital sensors at Pins tab this pins will be shown in this combobox.
+
 ## Output control
 
 You can disable output from your axis to the system, but all overlaying functions will be still working.
@@ -61,7 +65,7 @@ After this your calibration values are ready to be written to the board.
 
 ## Magnet offset
 
-This feature allows you to shift axis output by half of its fullscale value. This may be helpful when your magnetic field sensor output crossing from **32767** to **32767** while calibration.
+This feature allows you to shift axis output by half of its fullscale value. This may be helpful when your magnetic field sensor output crossing from **32767** to **-32767** while calibration.
 
 ## Resolution
 
@@ -94,6 +98,15 @@ There are 10 points you can drag for setting the custom curve shape:
 For your convenience there are 4 presets available. To apply the preset just press on it: 
 
 <img src="https://d.radikal.ru/d40/1911/23/26150c28d8d1.png">
+
+## Combined axes
+
+You can specify one function per axis to combine one axis with another. Available functions are:
+
+* Plus absolute
+* Plus relative
+* Minus absolute
+* Minus relative
 
 ## Saving changes
 
