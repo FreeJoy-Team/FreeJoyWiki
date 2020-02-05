@@ -1,65 +1,68 @@
 FreeJoy supports up to 128 digital inputs. Digital inputs are configured at "Button Config" tab.
 
-<img src="https://a.radikal.ru/a42/1911/6c/76b195613953.png">
+<img src="https://d.radikal.ru/d36/2002/8e/01bf81498b4e.png">
 
 Before configuring digital inputs make sure the correct pins configuration is written to the device.
 
 ## Button mappings
 
-By default all digital buttons set to Normal push button. 
-Single buttons count starting from lowest number of pin at port A (A0, A1, A2...A7, B0, B1...). 
-Buttons in matrix counted from first column and first row like this:
+There are two blocks: physical and logical buttons. 
 
-| Column Number | Row Number | Button Number |
-| --- | --- | --- |
-| Col 1 | Row 1 | Button 1 |
-| Col 1 | Row 2 | Button 2 |
-| --- | --- | --- |
-| Col 1 | Row N | Button N |
-| Col 2 | Row 1 | Button N+1 |
-| Col 2 | Row 2 | Button N+2 |
-| --- | --- | --- |
-| Col M | Row N | Button N*M |
+You can map up to 128 logical buttons to any of connected physical buttons. For every logical button you can choose function:
 
-### Buttons priority
+BUTTON_NORMAL
+BUTTON_INVERTED
+BUTTON_TOGGLE
+TOGGLE_SWITCH
+TOGGLE_SWITCH_ON
+TOGGLE_SWITCH_OFF
+POV1_UP
+POV1_RIGHT
+POV1_DOWN
+POV1_LEFT
+POV2_UP
+POV2_RIGHT
+POV2_DOWN
+POV2_LEFT
+POV3_UP
+POV3_RIGHT
+POV3_DOWN
+POV3_LEFT
+POV4_UP
+POV4_RIGHT
+POV4_DOWN
+POV4_LEFT
+ENCODER_INPUT_A
+ENCODER_INPUT_B
+RADIO_BUTTON1
+RADIO_BUTTON2
+RADIO_BUTTON3
+RADIO_BUTTON4
 
-Buttons priority is (higher priority - lower number):
-
-1. **Matrix buttons**
-2. **Shift registers**
-3. **Axes to buttons**
-4. **Single buttons**
+Some function (as encoder inputs) are not available for buttons connected as matrix or set as shifts.
 
 ### Indication
 
-If pin configuration is written to the device FreeJoy Configurator indicates when button is pushed by green background:
+Pressed buttons will be indicated in physical and logical buttons blocks for helping you setting up your configuration.
 
-<img src="https://c.radikal.ru/c12/1911/0c/902081569054.png">
+<img src="https://d.radikal.ru/d21/2002/cc/b89d4c073d8b.png">
 
-## Button configuration
 
-Each digital input can be configured as:
+## Shifts
 
-| Input mode | Action |
-|------------|--------|
-| Normal push button | Logical high when pressed |
-| Inverted push button | Logical low when pressed |
-| Button toggle | Change logical state at press action |
-| Toggle switch ON/OFF | Short press when state changes |
-| Toggle switch ON | Short press when state changes from released to pressed |
-| Toggle switch OFF | Short press when state changes from pressed to released |
-| POV hat button left | POV |
-| POV hat button right | POV |
-| POV hat button up | POV |
-| POV hat button down | POV |
-| Incremental encoder input A | Short press at encoder step CW |
-| Incremental encoder input B | Short press at encoder step CCW |
+You can specify up to 5 shift modificator buttons. Shifts are connected to logical buttons.
+
+If you set shift button you can set shift modificators to your logical buttons. Physical buttons will change their logical destination to logical buttons with proper shift modificators.
+
+<img src="https://d.radikal.ru/d42/2002/c7/67a1639034b5.png">
 
 ## Encoders
 
-You can connect as many encoders as your digital pins allow. Both A and B encoder pin must be defined. In case of pin A defined an unused pin B with lowest number will be mapped to same encoder. Example (inputs with same color correspond same encoder):
+You can connect up to 16 encoders. Both A and B encoder pin must be defined. In case of pin A defined an unused pin B with lowest number will be mapped to same encoder. Example (inputs with same color correspond same encoder):
 
 <img src="https://a.radikal.ru/a20/1911/44/c7ad81d64a4e.png">
+
+(Screenshot from older version of configurator, but logic is the same)
 
 ## Saving changes
 
