@@ -3,7 +3,7 @@ FreeJoy supports two types of shift registers IC to extend number of connected b
 * **74HC165**
 * **CD4021**
 
-In normal operation shift registers inputs should be pulled to **3.3V** and buttons should be connected to **GND**. Otherwise you will have inverted states output.
+You can choose if yout shift register input are pulled up or down.
 
 ## Connection
 
