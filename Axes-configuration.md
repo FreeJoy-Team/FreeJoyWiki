@@ -1,16 +1,20 @@
-FreeJoy supports up to 8 analog 12bit (4096 samples) inputs and digital TLE501x sensors as inputs of axes. Every axis has such settings as:
+FreeJoy supports up to 8 analog 12bit (4096 samples) inputs, digital TLE501x sensors and buttons/encoders as inputs of axes. Every axis has such settings as:
 
-* Output control
-* Calibration
-* Magnet offset feature
+* Source/destination (X, Y, Z, Rx, Ry, Rz, Slider1, Slider2)
+* Output enabling/disabling
 * Resolution
+* Calibration (manual or automatical)
+* Smothing (4 levels of filtration)
 * Invertion
-* Smoothing
+* Dead zone
+* Magnet offset option
 * Curve shaping
+* Functions for combined axes
+* Axes from buttons/encoders
 
-Settings for analog inputs are represented at "Axes Config" and "Axes Curves" tabs.
+Settings for axes are represented at "Axes Config" and "Axes Curves" tabs.
 
-<img src="https://d.radikal.ru/d29/2001/60/b5f00980733c.png">
+<img src="https://b.radikal.ru/b06/2002/ca/5ca264923846.png">
 
 Before axis configuration make sure the correct pins for analog inputs or digital sensors are chosen in "Pin Config" tab and configuration is written to the device.
 
