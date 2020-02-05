@@ -20,7 +20,7 @@ Before axis configuration make sure the correct pins for analog inputs or digita
 
 ## Axis source 1
 
-Pin of main axis source. If you selected some analog axes or digital sensors at Pins tab this pins will be shown in this combobox.
+Pin of main axis source. If you selected some analog axes or digital sensors at Pins tab this pins will be shown in this combobox. By default axis source is set to buttons, that means you can specify buttons or encoder inputs to change the value is axis. Corresponding logical buttons and positive step  should be selected in this case. 
 
 ## Output control
 
