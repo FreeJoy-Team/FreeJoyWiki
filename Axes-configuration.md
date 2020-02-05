@@ -25,7 +25,7 @@ This function can be useful when **AxesToButtons** is used. Your buttons from ax
 
 ## Calibration
 
-By default all inputs calibrated to fullscale range 0-4095. You can choose one of two options for calibration:
+By default all inputs calibrated to fullscale range -32767 to 32767. You can choose one of two options for calibration:
 
 * Manual calibration
 * Automatic calibration
@@ -61,12 +61,12 @@ After this your calibration values are ready to be written to the board.
 
 ## Magnet offset
 
-This feature allows you to shift axis output by half of its fullscale value. This may be helpful when your magnetic field sensor output crossing from **4095** to **0** while calibration.
+This feature allows you to shift axis output by half of its fullscale value. This may be helpful when your magnetic field sensor output crossing from **32767** to **32767** while calibration.
 
 ## Resolution
 
 It is possible to set axis resolution lower than 12 bit for some reasons (noise cancellation, etc.)
-Axis resolution can be set from **1** bit to **12** bits.
+Axis resolution can be set from **1** bit to **12** bits (if set more than 12 it is still 12).
 
 ## Invertion
 
