@@ -1,0 +1,1 @@
+<img src="https://b.radikal.ru/b07/2002/ae/193afebe2ea8.png">
