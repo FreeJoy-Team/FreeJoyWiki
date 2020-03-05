@@ -34,17 +34,17 @@ After setting up single buttons you will see its total count at "Current Config"
 
 In case of connecting buttons in matrix it is highly recommended to use schematic with diodes:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/button_matrix.png height=400)
+<img src="https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/button_matrix.png" height=400/>
 
 This will help to avoid negative affects at pushing several buttons at the same time.
 
 For setting up buttons in a matrix select some pins of device as Rows and some as Columns:
 
-<img src="https://a.radikal.ru/a43/1911/f0/e7ca5db4dbfe.png">
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/button_matrix_pins.png)
 
 After setting up matrix buttons you will see total buttons count at "Current Config" panel:
 
-<img src="https://d.radikal.ru/d26/1911/4f/bba505ec9957.png">
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/maxtrix_buttons_config.png)
 
 As you can see from the image above you can combine single and matrix buttons in your configuration.
 
@@ -58,7 +58,7 @@ There are three pins where you can connect your highlight LEDs and adjust their 
 
 RGB leds can be connected to these pin to set custom color of the highlight. If it is supposed to use more than 2-3 LEDs transistor connection is required to prevent damaging the board:
 
-<img src="https://b.radikal.ru/b23/2003/84/9e4d4e11d9e5.png"/>
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/led_transistor.png)
 
 Dont forget to use resistors to reduce current through the LEDs and not to damage BluePill board.
 
@@ -76,7 +76,7 @@ BluePill board already has one single LED connected to pin PC13. You can connect
 
 LED matrix is similar to button matrix. You can connect Rows and Columns to any pins of BluePill:
 
-<img src="http://robotclass.ru/wp-content/uploads/2016/12/led-matrix-8x8-schema.png"/>
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/led_matrix.png)
 
 
 ## Saving changes
