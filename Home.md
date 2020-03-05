@@ -10,6 +10,7 @@ Just download the [latest release]() and run the installer.
 * [Axes to buttons](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Axes-to-Buttons)
 * [Shift registers](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Shift-registers)
 * [TLE501x sensors](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/TLE501x-sensors)
+* [LED configuration](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/LED-configuration)
 * [Loading and saving configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Loading-and-saving-configuration)
 * [Advanced settings](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Advanced-settings)
 * [Firmware flasher](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Firmware-flasher)
