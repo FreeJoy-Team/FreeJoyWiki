@@ -1,6 +1,6 @@
 FreeJoy supports up to 128 digital inputs. Digital inputs are configured at "Button Config" tab.
 
-<img src="https://d.radikal.ru/d36/2002/8e/01bf81498b4e.png">
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/digital_inputs_configuration/buttons_tab.png)
 
 Before configuring digital inputs make sure the correct pins configuration is written to the device.
 
@@ -46,7 +46,7 @@ Some function (as encoder inputs) are not available for buttons connected as mat
 
 Pressed buttons will be indicated in physical and logical buttons blocks for helping you setting up your configuration.
 
-<img src="https://d.radikal.ru/d21/2002/cc/b89d4c073d8b.png">
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/digital_inputs_configuration/buttons_indication.png)
 
 
 ## Shifts
@@ -55,7 +55,7 @@ You can specify up to 5 shift modificator buttons. Shifts are connected to logic
 
 If you set shift button you can set shift modificators to your logical buttons. Physical buttons will change their logical destination to logical buttons with proper shift modificators.
 
-<img src="https://d.radikal.ru/d42/2002/c7/67a1639034b5.png">
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/digital_inputs_configuration/shift_indication.png)
 
 ## Encoders
 
