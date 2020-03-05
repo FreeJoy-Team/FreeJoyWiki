@@ -1,6 +1,6 @@
 Firmware programmer feature allow you to flash new firmware to the device without programmer if you have programmed it once.
 
-<img src="https://d.radikal.ru/d16/2001/1f/9d871b290323.png"/>
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/firmware_flasher/flasher.png)
 
 If you want to flash new firmware:
 
@@ -9,7 +9,7 @@ If you want to flash new firmware:
 * Press OK and wait progress bar to reach 100%
 * You will get a message:
 
-<img src="https://d.radikal.ru/d16/2001/87/81f5de316304.png"/>
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/firmware_flasher/flasher_info.png)
 
 * When device disconnects wait 5-10 seconds, unplug device and plug it again
 
