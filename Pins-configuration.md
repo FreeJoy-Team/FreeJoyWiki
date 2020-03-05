@@ -34,7 +34,7 @@ After setting up single buttons you will see its total count at "Current Config"
 
 In case of connecting buttons in matrix it is highly recommended to use schematic with diodes:
 
-<img src="https://c.radikal.ru/c17/1911/9e/553f1f221bbd.png" height=400>
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/button_matrix.png height=400)
 
 This will help to avoid negative affects at pushing several buttons at the same time.
 
