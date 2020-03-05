@@ -14,7 +14,7 @@ FreeJoy supports up to 8 analog 12bit (4096 samples) inputs, digital TLE501x sen
 
 Settings for axes are represented at "Axes Config" and "Axes Curves" tabs.
 
-<img src="https://b.radikal.ru/b06/2002/ca/5ca264923846.png">
+<img src="https://d.radikal.ru/d19/2003/50/8ef3ba30754e.png">
 
 Before axis configuration make sure the correct pins for analog inputs or digital sensors are chosen in "Pin Config" tab and configuration is written to the device.
 
@@ -63,9 +63,20 @@ For automatic calibration:
 
 After this your calibration values are ready to be written to the board.
 
-## Magnet offset
+## Offset
 
-This feature allows you to shift axis output by half of its fullscale value. This may be helpful when your magnetic field sensor output crossing from **32767** to **-32767** while calibration.
+This feature allows you to shift axis output. This may be helpful when your magnetic field sensor output crossing from **32767** to **-32767** while calibration. 
+
+## Deadband
+
+There are two options that can be set: 
+
+* Center deadband
+* Dynamic deadband
+
+### Center deadband is activated if "Dynamic deadband" checkbox is unchecked. Deadband width is set by numbers from 0 (deadband off) to 127 (very wide deadband)..
+
+### Dynamic deadband is activated if "Dynamic deadband" checkbox is checked. Dynamic deadband holds axis output (cancelling high frequency noise) value if axis input value not changing. You can set sensivity of holding by numbers from 0 (deadband off) to 127 (very low sensivity).
 
 ## Resolution
 
