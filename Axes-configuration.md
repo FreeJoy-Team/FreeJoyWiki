@@ -89,12 +89,7 @@ Every axis can be logically inverted by checking "Inverted" checkbox for corresp
 
 ## Smoothing
 
-You can set smoothing for every axis by dragging "Smoothing" slider. There are 4 levels of smoothing:
-
-* Off
-* Low
-* Medium
-* High
+You can set smoothing for every axis by dragging "Smoothing" slider. There are 7 levels of smoothing.
 
 ## Curve shaping
 
