@@ -1,4 +1,4 @@
-Device pins can be configured is buttons (digital inputs) and analog inputs. Pins are configured in the "Pin Config" tab:
+Device pins can be configured as buttons (digital inputs), analog inputs and digital outputs (LEDs). Pins are configured in the "Pin Config" tab:
 
 <img src="https://d.radikal.ru/d34/1911/ba/4aec9a66b7b0.png">
 
@@ -47,6 +47,37 @@ After setting up matrix buttons you will see total buttons count at "Current Con
 <img src="https://d.radikal.ru/d26/1911/4f/bba505ec9957.png">
 
 As you can see from the image above you can combine single and matrix buttons in your configuration.
+
+## Connecting LEDs to PWM channels
+
+There are three pins where you can connect your highlight LEDs and adjust their brightness:
+
+* PB0
+* PB1
+* PB4 
+
+RGB leds can be connected to these pin to set custom color of the highlight. If it is supposed to use more than 2-3 LEDs transistor connection is required to prevent damaging the board:
+
+<img src="https://b.radikal.ru/b23/2003/84/9e4d4e11d9e5.png"/>
+
+Dont forget to use resistors to reduce current through the LEDs and not to damage BluePill board.
+
+## Connecting mappable LEDs
+
+Up to 24 LEDs can be connected to the board and mapped to logical buttons state. This LEDs can be connected as single LEDs or/and as LED matrix.
+
+### Connecting single LEDs
+
+BluePill board already has one single LED connected to pin PC13. You can connect single LEDs to any pin through resistor:
+
+<img src"https://66.media.tumblr.com/43acc74e5f908c8967c8328cb9305aa4/tumblr_inline_oc2f3gVoih1t55lnu_1280.png"/>
+
+### Connecting LED matrix
+
+LED matrix is similar to button matrix. You can connect Rows and Columns to any pins of BluePill:
+
+<img src="http://robotclass.ru/wp-content/uploads/2016/12/led-matrix-8x8-schema.png"/>
+
 
 ## Saving changes
 
