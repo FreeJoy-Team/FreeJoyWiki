@@ -70,7 +70,7 @@ Up to 24 LEDs can be connected to the board and mapped to logical buttons state.
 
 BluePill board already has one single LED connected to pin PC13. You can connect single LEDs to any pin through resistor:
 
-<img src"https://66.media.tumblr.com/43acc74e5f908c8967c8328cb9305aa4/tumblr_inline_oc2f3gVoih1t55lnu_1280.png"/>
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/single_led_connection.png)
 
 ### Connecting LED matrix
 
