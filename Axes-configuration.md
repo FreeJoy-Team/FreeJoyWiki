@@ -74,9 +74,11 @@ There are two options that can be set:
 * Center deadband
 * Dynamic deadband
 
-### Center deadband is activated if "Dynamic deadband" checkbox is unchecked. Deadband width is set by numbers from 0 (deadband off) to 127 (very wide deadband)..
+### Center deadband 
+Center deadband  is activated if "Dynamic deadband" checkbox is unchecked. Deadband width is set by numbers from 0 (deadband off) to 127 (very wide deadband)..
 
-### Dynamic deadband is activated if "Dynamic deadband" checkbox is checked. Dynamic deadband holds axis output (cancelling high frequency noise) value if axis input value not changing. You can set sensivity of holding by numbers from 0 (deadband off) to 127 (very low sensivity).
+### Dynamic deadband 
+Dynamic deadband is activated if "Dynamic deadband" checkbox is checked. Dynamic deadband holds axis output (cancelling high frequency noise) value if axis input value not changing. You can set sensivity of holding by numbers from 0 (deadband off) to 127 (very low sensivity).
 
 ## Resolution
 
