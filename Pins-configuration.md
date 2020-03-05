@@ -1,6 +1,6 @@
 Device pins can be configured as buttons (digital inputs), analog inputs and digital outputs (LEDs). Pins are configured in the "Pin Config" tab:
 
-<img src="https://d.radikal.ru/d34/1911/ba/4aec9a66b7b0.png">
+[](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/pins_tab.png)
 
 ## Connection
 
