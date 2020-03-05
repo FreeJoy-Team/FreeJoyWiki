@@ -16,11 +16,11 @@ There are three ways to connect digital inputs:
 
 Single buttons can be connected as "active high" and "active low" buttons. The most common connection is "active low" when the first pin of button is connected to controller's pin and the second pin of button is connected to GND (shown at picture below)
 
-<img src="https://c.radikal.ru/c13/1911/c5/6826d87c904a.png">
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/button_connect.png)
 
 In this case select Button GND at expanding menu near needed pin.
 
-<img src="https://c.radikal.ru/c03/1911/46/f4c4703f1e1d.png">
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/button_pin.png)
 
 Controller will provide internal pull-up for chosen input and no external components are needed. 
 
@@ -28,7 +28,7 @@ In the other way the second pin on the button is connected to 3.3V, so Button VC
 
 After setting up single buttons you will see its total count at "Current Config" panel:
 
-<img src="https://b.radikal.ru/b08/1911/e9/10018e47dd2f.png">
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/single_buttons_config.png)
 
 ### Connecting matrix of buttons 
 
