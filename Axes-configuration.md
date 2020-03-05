@@ -44,7 +44,7 @@ In case of manual calibration set your axis to the lowest position and set the "
 
 Then set set axis to the highest position and set "Maximum" value to the current Raw value:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/axes_configuration/calibration_min.png)
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/axes_configuration/calibration_max.png)
 
 In case you have asymmetrical axis input you can set center position. Do do this you need to check Center checkbox, set your axis to the neutral position and set "Center" value to current Raw value:
 
