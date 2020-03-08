@@ -1,7 +1,7 @@
 Welcome to the FreeJoyConfigurator wiki!
 
 # Installation
-Just download the [latest release]() and run the installer.
+Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/releases) and run the installer.
 
 # Getting started
 * [Pins configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Pins-configuration)
