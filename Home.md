@@ -23,10 +23,10 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 <details> 
   <summary> Инструкция на русском </summary>
 
-# Installation
-Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/releases) and run the installer.
+# Установка
+Скачайте [последний релиз](https://github.com/FreeJoy-Team/FreeJoy/releases) и запустите установщик.
 
-# Getting started
+# Начало работы
 * [Настройка выводов контроллера](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Pins-configuration)
 * [Настройка цифровых входов (кнопок)](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Digital-inputs-configuration)
 * [Настройка осей](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Axes-configuration)
