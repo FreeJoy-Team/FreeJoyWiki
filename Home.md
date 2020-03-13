@@ -1,4 +1,4 @@
-Welcome to the FreeJoyConfigurator wiki!
+## Welcome to the FreeJoyConfigurator wiki!
 
 <details> 
   <summary> English guide </summary>
@@ -39,6 +39,7 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 * [Загрузчик прошивки](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Firmware-flasher)
 
 </details>
+
 
 ### References
 Thanks to [OpenSimHardware](https://github.com/OpenSimHardware) with [Pedal & Button Controller](https://github.com/OpenSimHardware/PedalButtonController) project for the idea and the inspiration.
