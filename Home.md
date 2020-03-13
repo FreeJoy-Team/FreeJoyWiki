@@ -27,16 +27,16 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 Скачайте [последний релиз](https://github.com/FreeJoy-Team/FreeJoy/releases) и запустите установщик.
 
 # Начало работы
-* [Настройка выводов контроллера](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Pins-configuration)
-* [Настройка цифровых входов (кнопок)](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Digital-inputs-configuration)
-* [Настройка осей](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Axes-configuration)
-* [Функция "оси в кнопки"](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Axes-to-Buttons)
-* [Сдвиговые регистры](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Shift-registers)
-* [Датчики TLE501x](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/TLE501x-sensors)
-* [Настройка светодиодов](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/LED-configuration)
-* [Загрузка и сохранение конфигурации](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Loading-and-saving-configuration)
-* [Продвинутые настройки](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Advanced-settings)
-* [Загрузчик прошивки](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Firmware-flasher)
+* [Настройка выводов контроллера](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Настройка-выводов-контроллера)
+* [Настройка цифровых входов (кнопок)](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Настройка-цифровых-входов-(кнопок))
+* [Настройка осей](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Настройка-осей)
+* [Функция "оси в кнопки"](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Функция-%22оси-в-кнопки%22)
+* [Сдвиговые регистры](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Сдвиговые-регистры)
+* [Датчики TLE501x](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Датчики-TLE501x)
+* [Настройка светодиодов](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Настройка-светодиодов)
+* [Загрузка и сохранение конфигурации](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Загрузка-и-сохранение-конфигурации)
+* [Продвинутые настройки](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Продвинутые-настройки)
+* [Загрузчик прошивки](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Загрузчик-прошивки)
 
 </details>
 
