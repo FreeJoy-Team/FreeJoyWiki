@@ -1,7 +1,7 @@
 Welcome to the FreeJoyConfigurator wiki!
 
 <details> 
-  <summary> **English guide** </summary>
+  <summary> English guide </summary>
 
 # Installation
 Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/releases) and run the installer.
@@ -21,7 +21,7 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 </details>
 
 <details> 
-  <summary> **Инструкция на русском** </summary>
+  <summary> Инструкция на русском </summary>
 
 # Installation
 Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/releases) and run the installer.
