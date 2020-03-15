@@ -21,7 +21,7 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 </details>
 
 <details> 
-  <summary> Инструкция на русском </summary>
+  <summary> Инструкция на русском (в разработке) </summary>
 
 # Установка
 Скачайте [последний релиз](https://github.com/FreeJoy-Team/FreeJoy/releases) и запустите установщик.
