@@ -60,7 +60,7 @@ RGB leds can be connected to these pin to set custom color of the highlight. If 
 
 ![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/pins_configuration/led_transistor.png)
 
-Dont forget to use resistors to reduce current through the LEDs and not to damage BluePill board.
+Dont forget to use resistors to reduce current through the LEDs and avoid damaging BluePill board.
 
 ## Connecting mappable LEDs
 
