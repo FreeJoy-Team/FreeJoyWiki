@@ -13,6 +13,8 @@ Only 3 wires are used to connect shift registers to FreeJoy:
 * **ShiftReg_DATA** pin (can be connected to any pin of BluePill board except of B3)
 * **SPI_SCK** pin (is always connected to B3 pin for all serial devices)
 
+**VCC** pin of shift register should be connected to **3.3V** power bus for proper operation. 
+
 ![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/shift_registers/shift_registers_tab.png)
 
 Electrical connections of serial register **74HC165** are shown below:
