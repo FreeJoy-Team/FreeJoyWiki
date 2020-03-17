@@ -12,7 +12,7 @@ Only 3 signal wires and 2 power wires are used to connect shift registers to Fre
 * **ShiftReg_LATCH** pin (can be connected to any pin of BluePill board except of B3)
 * **ShiftReg_DATA** pin (can be connected to any pin of BluePill board except of B3)
 * **SPI_SCK** pin (is always connected to B3 pin for all serial devices)
-* **VCC** (or **VDD**) pin of shift registers should be connected to **3.3V** power bus for proper operation. 
+* **VCC** (or **VDD**) pin of shift registers should be connected to **3.3V** power bus for proper operation
 * **GND** (or **VSS**) pin must be connected to BluePill's **GND**
 
 ![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/shift_registers/shift_registers_tab.png)
