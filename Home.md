@@ -28,7 +28,7 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 * [Описание проекта](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Описание-проекта)
 * [Прошивка контроллера](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Прошивка-контроллера)
 * [Подключение кнопок](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Подключение-кнопок)
-* [Функция "оси в кнопки"](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Функция-%22оси-в-кнопки%22)
+* [Подключение осей](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Подключение осей)
 * [Сдвиговые регистры](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Сдвиговые-регистры)
 * [Датчики TLE501x](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Датчики-TLE501x)
 * [Настройка светодиодов](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Настройка-светодиодов)
