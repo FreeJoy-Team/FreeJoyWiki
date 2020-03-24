@@ -26,7 +26,7 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 
 # Начало работы
 * [Описание проекта](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Описание-проекта)
-* [Настройка цифровых входов (кнопок)](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Настройка-цифровых-входов-(кнопок))
+* [Прошивка контроллера](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Прошивка-контроллера)
 * [Настройка осей](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Настройка-осей)
 * [Функция "оси в кнопки"](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Функция-%22оси-в-кнопки%22)
 * [Сдвиговые регистры](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Сдвиговые-регистры)
