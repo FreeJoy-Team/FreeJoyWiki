@@ -30,7 +30,6 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 * [Подключение кнопок](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Подключение-кнопок)
 * [Подключение осей](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Подключение-осей)
 * [Сдвиговые регистры](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Сдвиговые-регистры)
-* [Датчики TLE501x](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Датчики-TLE501x)
 * [Подключение светодиодов](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Подключение-светодиодов)
 * [Загрузка и сохранение конфигурации](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Загрузка-и-сохранение-конфигурации)
 * [Продвинутые настройки](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Продвинутые-настройки)
