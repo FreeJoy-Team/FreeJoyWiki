@@ -38,5 +38,5 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 
 
 ### References
-Thanks Johnet for Russian instructions
-Thanks to [OpenSimHardware](https://github.com/OpenSimHardware) with [Pedal & Button Controller](https://github.com/OpenSimHardware/PedalButtonController) project for the idea and the inspiration.
+* Thanks [Johnet1](https://github.com/Johnet1) for Russian instructions
+* Thanks to [OpenSimHardware](https://github.com/OpenSimHardware) with [Pedal & Button Controller](https://github.com/OpenSimHardware/PedalButtonController) project for the idea and the inspiration.
