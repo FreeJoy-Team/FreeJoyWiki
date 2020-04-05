@@ -21,7 +21,7 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 </details>
 
 <details> 
-  <summary> Инструкция на русском (в разработке) </summary>
+  <summary> Инструкция на русском </summary>
 
 
 # Начало работы
