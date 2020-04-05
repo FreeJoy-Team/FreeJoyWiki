@@ -1,4 +1,4 @@
-TLE501x magnetic field sensor can be used for axes inputs. You you are using TLE5010 be sure it is powered by 5V supply voltage and you have voltage level converter from 3.3v to 5V for SCK and GEN pins. TLE5011 should be powered from 3.3V bus.
+TLE501x magnetic field sensor can be used for axes inputs. You you are using TLE5010 be sure it is powered by 4-5V supply voltage and you have voltage level converter from 3.3v to 5V for SCK and GEN pins. TLE5011 should be powered from 3.3V bus.
 
 ## Configuration
 
