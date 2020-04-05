@@ -1,6 +1,6 @@
 1. Подключите программатор как показано на рисунке ниже (сверяйтесь с подписями контактов на программаторе и плате контроллера):
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/images/rus_guide/1.jpg)
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator//blob/master/images/rus_guide/1.jpg)
 
 1. Подключите программатор ST-Link v2 к компьютеру;
 1. Запустите программу ST-Link;
