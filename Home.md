@@ -27,11 +27,11 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 # Начало работы
 * [Описание проекта](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Описание-проекта)
 * [Прошивка контроллера](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Прошивка-контроллера)
+* [Дополнительные настройки](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Продвинутые-настройки)
 * [Подключение кнопок](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Подключение-кнопок)
 * [Подключение осей](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Подключение-осей)
 * [Подключение светодиодов (в разработке)](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Подключение-светодиодов)
 * [Загрузка и сохранение конфигурации](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Загрузка-и-сохранение-конфигурации)
-* [Продвинутые настройки](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Продвинутые-настройки)
 * [Загрузчик прошивки](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/Загрузчик-прошивки)
 
 </details>
