@@ -14,7 +14,7 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 * [Shift registers](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Shift-registers)
 * [TLE501x sensors](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/TLE501x-sensors)
 * [MLX90393 sensors](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/MLX90393-sensors)
-* [I2C sensors](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/I2C-sensors)
+* [I2C sensors (AS5600, ADS1115)](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/I2C-sensors)
 * [LED configuration](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/LED-configuration)
 * [Loading and saving configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Loading-and-saving-configuration)
 * [Advanced settings](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Advanced-settings)
