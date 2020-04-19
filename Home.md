@@ -13,6 +13,7 @@ Just download the [latest release](https://github.com/FreeJoy-Team/FreeJoy/relea
 * [Axes to buttons](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Axes-to-Buttons)
 * [Shift registers](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Shift-registers)
 * [TLE501x sensors](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/TLE501x-sensors)
+* [MLX90393 sensors](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/MLX90393-sensors)
 * [LED configuration](https://github.com/FreeJoy-Team/FreeJoyConfigurator/wiki/LED-configuration)
 * [Loading and saving configuration](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Loading-and-saving-configuration)
 * [Advanced settings](https://github.com/vostrenkov/FreeJoyConfigurator/wiki/Advanced-settings)
