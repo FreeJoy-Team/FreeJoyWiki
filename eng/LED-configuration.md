@@ -1,6 +1,6 @@
 FreeJoy support 3 PWM outputs with configurable duty cycle for LED lightning and up to 24 LEDs mappable to logical buttons states. LED configuration is available at LED tab:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/led_configuration/led_tab.png)
+![](../images/led_configuration/led_tab.png)
 
 ## PWM channels configuration
 
@@ -10,7 +10,7 @@ Duty cycle for each of three PWM channels can be set. If RGB LEDs are used this 
 
 If LEDs connection is set at Pins tab these LEDs are available to be configured in LEDs block:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/led_configuration/led_configuration.png)
+![](../images/led_configuration/led_configuration.png)
 
 Input number is number of logical buttons which LED should be mapped to. You can choose function of LED:
 

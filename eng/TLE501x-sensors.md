@@ -9,7 +9,7 @@ In most of cases TLE501x sensors are connected to FreeJoy by 4 signal wires:
 * **TLE501x_GEN** pin (can be connected only to B6)
 * **SPI_SCK** pin (can be connected only to B3)
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/tle501x_sensors/tle_config.png)
+![](../images/tle501x_sensors/tle_config.png)
 
 If you are using TLE501x sensor with generator on board TLE501x_GEN connection is not required.
 
@@ -17,7 +17,7 @@ If you are using TLE501x sensor with generator on board TLE501x_GEN connection i
 
 In case of using several TLE501x sensors they should be connected in a bus:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/tle501x_sensors/tle_connection.png)
+![](../images/tle501x_sensors/tle_connection.png)
 
 Any pin except of B3, B5 and B6 can be used for CS connection.
 
@@ -25,7 +25,7 @@ Any pin except of B3, B5 and B6 can be used for CS connection.
 
 TLE501x operates as angle sensors in magnetic field. It has output values from **0** to **360** degrees (mapped to -32767-32767 output). If your sensor's output cross from **32767** to **-32767** while calibration/operation you need to set **"Offset"** on **"Axes Config"** tab:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/tle501x_sensors/offset.png)
+![](../images/tle501x_sensors/offset.png)
 
 
 

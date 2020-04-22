@@ -15,24 +15,24 @@ Only 3 signal wires and 2 power wires are used to connect shift registers to Fre
 * **VCC** (or **VDD**) pin of shift registers should be connected to **3.3V** power bus for proper operation
 * **GND** (or **VSS**) pin must be connected to BluePill's **GND**
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/shift_registers/shift_registers_tab.png)
+![](../images/shift_registers/shift_registers_tab.png)
 
 Electrical connections of serial register **74HC165** are shown below:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/shift_registers/74hc165_connection.png)
+![](../images/shift_registers/74hc165_connection.png)
 
 Electrical connections of serial register **CD4021** are shown below:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/shift_registers/cd4021_connection.jpg)
+![](../images/shift_registers/cd4021_connection.jpg)
 
 ## Shift registers settings
 
 After setting proper pins for connection shift registers ICs you should change settings on **Shift Registers** tab:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/shift_registers/shift_register_setting.png)
+![](../images/shift_registers/shift_register_setting.png)
 
 ## Saving changes
 
 For applying pins configuration and saving it to the device press button **"Write Config to Device"** and wait for **"Config Written"** message appeared:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/config_written.png)
+![](../images/config_written.png)

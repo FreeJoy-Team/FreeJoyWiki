@@ -9,13 +9,13 @@ MCP3201/02/04/08 sensors are connected to FreeJoy by 4 signal wires:
 * **SPI_MISO** pin (can be connected only to B4)
 * **SPI_SCK** pin (can be connected only to B3)
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/mcp320x_adc/mcp320x_pins.png)
+![](../images/mcp320x_adc/mcp320x_pins.png)
 
 ## Operation
 
 MCP3201/02/04/08 are 1/2/4/8-channel ADC. Each channel can be set to axis individually:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/mcp320x_adc/mcp320x_channels.png)
+![](../images/mcp320x_adc/mcp320x_channels.png)
 
 
 

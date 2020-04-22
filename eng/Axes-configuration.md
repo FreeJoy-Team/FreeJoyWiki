@@ -14,7 +14,7 @@ FreeJoy supports up to 8 analog 12bit (4096 samples) inputs, digital TLE501x sen
 
 Settings for axes are represented at "Axes Config" and "Axes Curves" tabs.
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/axes_configuration/axes_tab.png)
+![](../images/axes_configuration/axes_tab.png)
 
 Before axis configuration make sure the correct pins for analog inputs or digital sensors are chosen in "Pin Config" tab and configuration is written to the device.
 
@@ -40,15 +40,15 @@ For axes calibration go to "Axis Config" tab. You will see 8 blocks for 8 analog
 
 In case of manual calibration set your axis to the lowest position and set the "Minimum" value to the current Raw value:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/axes_configuration/calibration_min.png)
+![](../images/axes_configuration/calibration_min.png)
 
 Then set set axis to the highest position and set "Maximum" value to the current Raw value:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/axes_configuration/calibration_max.png)
+![](../images/axes_configuration/calibration_max.png)
 
 In case you have asymmetrical axis input you can set center position. Do do this you need to check Center checkbox, set your axis to the neutral position and set "Center" value to current Raw value:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/axes_configuration/calibration_center.png)
+![](../images/axes_configuration/calibration_center.png)
 
 After writing config to the device you will see that device now scaling input data to the lower and higher limits and logical center corresponds the physical neutral position.
 
@@ -97,11 +97,11 @@ You can set smoothing for every axis by dragging "Filter" slider. There are 7 le
 
 You can set a custom curve shape for every axis. This settings and represented at "Axes Curves" tab:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/axes_configuration/curve.png)
+![](../images/axes_configuration/curve.png)
 
 There are 10 points you can drag for setting the custom curve shape:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/axes_configuration/curves_tab.png)
+![](../images/axes_configuration/curves_tab.png)
 
 For your convenience there are 4 presets available. To apply the preset just press on it.
 
@@ -118,4 +118,4 @@ You can specify one function per axis to combine one axis with another. Availabl
 
 For applying pins configuration and saving it to the device press button **"Write Config to Device"** and wait for **"Config Written"** message appeared:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/config_written.png)
+![](../images/config_written.png)

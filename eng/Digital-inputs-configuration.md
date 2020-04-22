@@ -1,6 +1,6 @@
 FreeJoy supports up to 128 digital inputs. Digital inputs are configured at "Button Config" tab.
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/digital_inputs_configuration/buttons_tab.png)
+![](../images/digital_inputs_configuration/buttons_tab.png)
 
 Before configuring digital inputs make sure the correct pins configuration is written to the device.
 
@@ -46,7 +46,7 @@ Some function (as encoder inputs) are not available for buttons connected as mat
 
 Pressed buttons will be indicated in physical and logical buttons blocks for helping you setting up your configuration.
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/digital_inputs_configuration/buttons_indication.png)
+![](../images/digital_inputs_configuration/buttons_indication.png)
 
 
 ## Shifts
@@ -55,7 +55,7 @@ You can specify up to 5 shift modificator buttons. Shifts are connected to logic
 
 If you set shift button you can set shift modificators to your logical buttons. Physical buttons will change their logical destination to logical buttons with proper shift modificators.
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/digital_inputs_configuration/shift_indication.png)
+![](../images/digital_inputs_configuration/shift_indication.png)
 
 ## Encoders
 
@@ -69,4 +69,4 @@ You can connect up to 16 encoders. Both A and B encoder pin must be defined. In 
 
 For applying pins configuration and saving it to the device press button **"Write Config to Device"** and wait for **"Config Written"** message appeared:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/config_written.png)
+![](../images/config_written.png)
