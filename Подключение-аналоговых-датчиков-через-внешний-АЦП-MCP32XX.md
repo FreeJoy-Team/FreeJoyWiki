@@ -8,7 +8,7 @@ MCP3201_CS – индивидуальный для каждого АЦП.
 
 Прочие модификации АЦП подключаются аналогично. Цоколевка разных модификаций MCP32XX приведена ниже:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/rus_guide/A1.6.jpg)
+![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/rus_guide/A1.6.1.jpg)
 
 Уже распаянные платы MCP32XX нам не встречались,поэтому мы рекомендуем либо изготовить плату самостоятельно, например, при помощи ЛУТ (лазерно-утюжной технологии).
 
