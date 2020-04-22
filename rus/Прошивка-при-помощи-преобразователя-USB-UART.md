@@ -1,10 +1,10 @@
 1. Подключите преобразователь как показано на рисунке ниже:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/rus_guide/6.jpg)
+![](../images/6.jpg)
 
 1. Установите джампер BOOT0 в позицию 1:
 
-![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/rus_guide/7.jpg)
+![](../images/7.jpg)
 
 1. Подключите преобразователь USB-UART к компьютеру;
 1. Запустите программу STM32 Flash Loader Demonstrator;
