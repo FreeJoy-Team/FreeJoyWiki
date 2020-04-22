@@ -16,7 +16,7 @@ MCP3201_CS – индивидуальный для каждого АЦП.
 
 ![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/rus_guide/SO-8.jpg)
 
-Либо можно воспользоваться переходной платой, например такой для MCP3204 и MCP3208:
+или такой для MCP3204 и MCP3208:
 
 ![](https://github.com/FreeJoy-Team/FreeJoyConfigurator/blob/master/images/rus_guide/SO-16.jpg)
 
