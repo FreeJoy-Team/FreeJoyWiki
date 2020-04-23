@@ -1,4 +1,4 @@
-# Welcome to the FreeJoyConfigurator wiki!
+# Welcome to the FreeJoy project wiki!
 
 ## English guide
 
