@@ -2,6 +2,7 @@
 
 ## English guide
 
+* [Quickstart guide](eng/Quickstart-guide.md)
 * [Pins configuration](eng/Pins-configuration.md)
 * [Digital inputs (buttons) configuration](eng/Digital-inputs-configuration.md)
 * [Axes configuration](eng/Axes-configuration.md)
@@ -14,6 +15,7 @@
 * [Loading and saving configuration](eng/Loading-and-saving-configuration.md)
 * [Advanced settings](eng/Advanced-settings.md)
 * [Firmware flasher](eng/Firmware-flasher.md)
+* [Linux guide](eng/Linux-Guide.md)
 
 ## Инструкция на русском
 
@@ -29,4 +31,5 @@
 
 ### References
 * Thanks [Johnet1](https://github.com/Johnet1) for russian instructions
+* Thanks [piccaso](https://github.com/piccaso) for Linux guide
 * Thanks to [OpenSimHardware](https://github.com/OpenSimHardware) with [Pedal & Button Controller](https://github.com/OpenSimHardware/PedalButtonController) project for the idea and the inspiration.
