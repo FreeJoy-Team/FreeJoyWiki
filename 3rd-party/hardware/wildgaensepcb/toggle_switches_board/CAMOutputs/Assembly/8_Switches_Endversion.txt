@@ -1,0 +1,6 @@
+Stückliste exportiert aus C:/Users/Andre/Documents/EAGLE/projects/Board/2_In Entwicklung/Bord_Type_24Buttons_with_pins/8_Switches_Endversion.sch am 22.03.2020 10:13
+
+Qty Value Device    Package     Parts          Description   POPULARITY
+4         M9040P    M9040P_MODY S1, S2, S3, S4 TOGGLE SWITCH 0         
+1         PINHD-1X2 1X02        JP3            PIN HEADER    98        
+2         PINHD-1X4 1X04        JP1, JP2       PIN HEADER    91        

@@ -1,0 +1,6 @@
+Stückliste exportiert aus C:/Users/Andre/Documents/EAGLE/projects/Board/2_In Entwicklung/Bord_Type_DiodenMatrix/DiodenMatrix_16_Buttons_Endversion.sch am 28.04.2020 19:38
+
+Qty Value  Device    Package Parts                                                                 Description 
+1          PINHD-2X4 2X04    JP3                                                                   PIN HEADER  
+2          PINHD-2X8 2X08    JP1, JP2                                                              PIN HEADER  
+16  1N4004 1N4004    DO41-10 D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16 DIODE       

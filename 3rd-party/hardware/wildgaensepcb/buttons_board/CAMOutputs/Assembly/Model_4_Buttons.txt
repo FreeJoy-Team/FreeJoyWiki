@@ -1,0 +1,6 @@
+Stückliste exportiert aus C:/Users/Andre/Documents/EAGLE/projects/Board/2_In Entwicklung/Bord_Type_24Buttons_with_pins/Model_4_Buttons.sch am 22.03.2020 10:14
+
+Qty Value Device       Package  Parts          Description  MF                   MPN      OC_FARNELL OC_NEWARK
+4         40-XX        B3F-40XX S1, S2, S3, S4 OMRON SWITCH OMRON COMPONENTS USA B3F-4000 176434     36K3105  
+1         PINHD-1X2/90 1X02/90  JP2            PIN HEADER                                                     
+1         PINHD-1X4/90 1X04/90  JP1            PIN HEADER                                                     
