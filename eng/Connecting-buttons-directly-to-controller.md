@@ -2,7 +2,7 @@
 
 ![](../images/K1.jpg)
 
-Where:![](../images/K1.1.jpg) - Diode 1N4148 (or any other)
+Any diodes can be used, for example 1N4148.
 
 ### 2. Assignment of controller contacts (Pin Config tab):
 
