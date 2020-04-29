@@ -23,7 +23,7 @@ or such for MCP3204 and MCP3208:
 
 These ADC available in different cases: DIP-8, DIP-16 - for mounting in holes, SO-8, SO-16 for surface mounting on a board. The risers shown above are designed for ADCs in SO-8, SO-16 packages.
 
-[Potentiometers] (Potentiometer-connection.md), [Hall sensors] (Hall-sensors-connection.md) or any other type of analog with output signal range from 0 to 3.3V can be used as sources of signal for external ADC.
+[Potentiometers](Potentiometer-connection.md), [Hall sensors](Hall-sensors-connection.md) or any other type of analog with output signal range from 0 to 3.3V can be used as sources of signal for external ADC.
 
 The ADC can be used to connect analog sensors if it is necessary to reduce the number of conductors for their connection (for example inside of the stick) or to reduce the influence of EMI on long conductors (in this case place the ADC near to the sources of the analog signal).
 

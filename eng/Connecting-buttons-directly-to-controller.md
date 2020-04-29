@@ -39,9 +39,9 @@ After assigning a logical button and writing the configuration to the controller
 * Button_Toggle - toggle button, pressing of physical button inverts the state of the logical button (If the logical button was not pressed, then pressing the physical button will make it pressed until the physical button is pressed again).
 
 Functions for toggle switches:
-* ToggleSwich_OnOff - closing and opening contacts of the toggle switch connected to the physical button generates pressing of the logical button [(the time while the logical button remains pressed is set in the Toggle Press Time field of the Advanced Settings section)] (Advanced-settings.md);
-* ToggleSwich_On - closing contacts of the toggle switch connected to the physical button generates pressing of the logical button [(the time while the logical button remains pressed is set in the Toggle Press Time field of the Advanced Settings section)] (Advanced-settings.md);
-* ToggleSwich_Off - opening contacts of the toggle switch connected to the physical button generates pressing of the logical button [(the time while the logical button remains pressed is set in the Toggle Press Time field of the Advanced Settings section)] (Advanced-settings.md);
+* ToggleSwich_OnOff - closing and opening contacts of the toggle switch connected to the physical button generates pressing of the logical button [(the time while the logical button remains pressed is set in the Toggle Press Time field of the Advanced Settings section)](Advanced-settings.md);
+* ToggleSwich_On - closing contacts of the toggle switch connected to the physical button generates pressing of the logical button [(the time while the logical button remains pressed is set in the Toggle Press Time field of the Advanced Settings section)](Advanced-settings.md);
+* ToggleSwich_Off - opening contacts of the toggle switch connected to the physical button generates pressing of the logical button [(the time while the logical button remains pressed is set in the Toggle Press Time field of the Advanced Settings section)](Advanced-settings.md);
 
 Functions for HAT switches (multi-position buttons/hats):
 * PovX_Down, PovX_Up, PovX_Left, PovX_Right (where X is the number of the hat) - pressing the direction down/up/left/right of the corresponding hat.
@@ -52,7 +52,7 @@ Radio Button Function:
 * Sequental_Button - sequential switching mode - assigning one physical button to several logical ones with the enumeration function, when the physical button is pressed, the current pressed logical button will be released and the next logical button from the list will be pressed.
 
 Eco Encoder Features:
-* Encoder_A, Encoder_B - see [Connecting encoders] (Encoders-connection.md)
+* Encoder_A, Encoder_B - see [Connecting encoders](Encoders-connection.md)
 
 ### 4. Using shift modificators:
 Any logical button can be used as shift modificator. In this case, the logical button to which the shift modificator is assigned will work if two conditions are met: the logical button that is assigned by the shift modificator in the pressed state, and the logical button to which the shift modificator is assigned in the pressed state. If physical button has both logical buttons with shift modificator and without them, then the logical button which has no modificator will work only if shift modificators are not pressed.
@@ -60,4 +60,4 @@ Any logical button can be used as shift modificator. In this case, the logical b
 ### 5. Checking the operation of buttons
 Finally, the operation of the buttons can be checked: 
 (for Windows 10) “Start”, “Settings”, “Devices”, “Devices and Printers” with the right button on the device, “Settings for game control devices”, select the device, “Properties”. 
-For the number of buttons over 32 you can use VKB_Btn Tester program which is available [here] (../3rd-party/software/).
+For the number of buttons over 32 you can use VKB_Btn Tester program which is available [here](../3rd-party/software/).

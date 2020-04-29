@@ -7,14 +7,14 @@ Like physical and logical buttons we must assign physical axes to the necessary 
 The name of the analog axis output is indicated in the upper left corner of the field of this axis. There can be 8 axes in total: X, Y, Z, Rx, Ry, Rz, Slider1, Slider2.
 
 You can assign any physical axis to any logical axis in the "Axis source 1" field. Wherein:
-* for analog physical axes ([potentiometer] (Potentiometer-connection.md) or [Hall sensors] (Hall-sensors-connection.md)) the designation will be the signal contact (middle contact of the potentiometer or the signal output of the Hall sensor, in the example an analog sensor is assigned to the X axis, the signal contact of which is connected to A7)
-* for digital SPI sensors ([TLE5010/5011] (TLE501x-connection.md); [MLX90393] (MLX90393-connection.md); external ADCs [MCP32XX] (Connecting-analog-axes-to-MCP320x.md)) - chip select contact (in the example, the MLX90393 sensor whose SC pin is connected to A15 is assigned to the Y axis).
-* for digital I2C sensors ([AS5600] (AS5600-connection.md); external ADCs [ADS1115] (Connecting-analog-axes-to-ADS1115.md)) - the name of the I2C interface is indicated, and field "I2C address" indicates the type of sensor and address (for [ADS1115] (Connecting-analog-axes-to-ADS1115.md)) specified by connecting the ADDR pin (in the example, the external ADC [ADS1115] is assigned to the Z axis (Connecting-analog-axes-to-ADS1115.md) with address 01)
+* for analog physical axes ([potentiometer](Potentiometer-connection.md) or [Hall sensors](Hall-sensors-connection.md)) the designation will be the signal contact (middle contact of the potentiometer or the signal output of the Hall sensor, in the example an analog sensor is assigned to the X axis, the signal contact of which is connected to A7)
+* for digital SPI sensors ([TLE5010/5011](TLE501x-connection.md); [MLX90393](MLX90393-connection.md); external ADCs [MCP32XX](Connecting-analog-axes-to-MCP320x.md)) - chip select contact (in the example, the MLX90393 sensor whose SC pin is connected to A15 is assigned to the Y axis).
+* for digital I2C sensors ([AS5600](AS5600-connection.md); external ADCs [ADS1115](Connecting-analog-axes-to-ADS1115.md)) - the name of the I2C interface is indicated, and field "I2C address" indicates the type of sensor and address (for [ADS1115](Connecting-analog-axes-to-ADS1115.md)) specified by connecting the ADDR pin (in the example, the external ADC [ADS1115] is assigned to the Z axis (Connecting-analog-axes-to-ADS1115.md) with address 01)
 
-In addition for multi-channel sensors ([MLX90393] (MLX90393-connection.md)) and ADC ([ADC ADS1115] (Connecting-analog-axes-to-ADS1115.md) and [MCP32XX] (Connecting-analog-axes-to-MCP320x.md)) in the Channel field, specify the channel number (channels are numbered from 0) from which we want to receive data. (in the example on the Y-axis, we take readings from the second channel of the sensor [MLX90393] (MLX90393-connection.md), and on the Z-axis from the first channel of the external ADC [ADS1115] (Connecting-analog-axes-to-ADS1115.md) with address 01)
+In addition for multi-channel sensors ([MLX90393](MLX90393-connection.md)) and ADC ([ADC ADS1115](Connecting-analog-axes-to-ADS1115.md) and [MCP32XX](Connecting-analog-axes-to-MCP320x.md)) in the Channel field, specify the channel number (channels are numbered from 0) from which we want to receive data. (in the example on the Y-axis, we take readings from the second channel of the sensor [MLX90393](MLX90393-connection.md), and on the Z-axis from the first channel of the external ADC [ADS1115](Connecting-analog-axes-to-ADS1115.md) with address 01)
 
 For unused axes in the project, uncheck Output enabled.
-** Unused axes will not be displayed by the operating environment if the “Dinamic HID config” checkbox is set to the [HID Settings] (Advanced-settings.md) **
+** Unused axes will not be displayed by the operating environment if the “Dinamic HID config” checkbox is set to the [HID Settings](Advanced-settings.md) **
 
 The red scale "Out" shows what values ​​of the logical axis are issued to the operating system, the green scale "Raw" shows what values ​​of the physical axis the controller receives from the sensor.
 
@@ -56,4 +56,4 @@ The following functions are available:
 * Minus_Absolute = (AS1-AS2) / 2
 * Minus_ Relative = (AS1-AS2) -32767
 
-It is also possible to configure [converting the movement of axes to button presses] (Axis-to-buttons-function.md)
+It is also possible to configure [converting the movement of axes to button presses](Axis-to-buttons-function.md)

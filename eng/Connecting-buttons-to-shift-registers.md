@@ -17,8 +17,8 @@ It is recommended to connect shift registers VCC to +3.3V.
 
 Here 3 shift registers are connected to contacts A4, A5, one to contacts A6, A7. We set the number of physical buttons (the number of shift registers * 8). PullUp and PullDown - type of connection of buttons to the shift register. If you connected the shift register and all buttons in the pressed state on the Button Config tab when no buttons are pressed, then you need to change the type from PullUp to PullDown (or vice versa).
 
-There are 74HC165 and CD4021 shift registers are supported. Both chips are available both in the DIP-16 package (for mounting in the board holes) and in the SO-16 package (for surface mounting) Drawings of the 74HC165 shift register in the SO-16 package, as in the example above, for Sprint Layout can be taken [here] (../3rd-party/hardware/). Also (if you do not have the opportunity to make a board yourself), you can use a riser like this:
+There are 74HC165 and CD4021 shift registers are supported. Both chips are available both in the DIP-16 package (for mounting in the board holes) and in the SO-16 package (for surface mounting) Drawings of the 74HC165 shift register in the SO-16 package, as in the example above, for Sprint Layout can be taken [here](../3rd-party/hardware/). Also (if you do not have the opportunity to make a board yourself), you can use a riser like this:
 
-! [SO-16] (/images/SO-16.jpg)
+! [SO-16](/images/SO-16.jpg)
 
-All types of switches (buttons, toggle switches, encoders, etc.) can be connected to shift registers. Their setting is similar to [connecting buttons directly to the controller] (Connecting-buttons-directly-to-controller.md)
+All types of switches (buttons, toggle switches, encoders, etc.) can be connected to shift registers. Their setting is similar to [connecting buttons directly to the controller](Connecting-buttons-directly-to-controller.md)
