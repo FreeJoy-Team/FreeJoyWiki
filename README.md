@@ -6,9 +6,9 @@
 * [Flashing firmware](eng/Flashing-firmware.md)
 * [Loading and saving configuration](eng/Saving-and-loading-configuration.md)
 * [Firmware loader](eng/Firmware-flasher.md)
-* [Button connection](eng/Buttons-connection.md)
-* [Axes connection](eng/Axes-connection.md)
-* [LED configuration](eng/LED-configuration.md)
+* [Button setup](eng/Buttons-connection.md)
+* [Axes setup](eng/Axes-connection.md)
+* [LED setup](eng/LED-configuration.md)
 * [Advanced settings](eng/Advanced-settings.md)
 * [Linux guide](eng/Linux-Guide.md)
 
