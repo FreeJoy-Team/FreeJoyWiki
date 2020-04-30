@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-04-28T17:38:36Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "DiodenMatrix_16_Buttons_Endversion"
+        },
+        "Owner": "And And <sugrob-84@mail.ru>",
+        "Size": {
+            "X": 69.91,
+            "Y": 29.96
+        }
+    }
+}

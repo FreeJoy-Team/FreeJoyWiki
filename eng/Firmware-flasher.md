@@ -1,16 +1,13 @@
-Firmware programmer feature allow you to flash new firmware to the device without programmer if you have programmed it once.
+The firmware download function allows you to update the firmware of the device without a programmer. This function works if the controller has already been [flashed](Flashing-firmware.md) with FreeJoy firmware using the programmer. The function is available in the "Firmware Programmer" drop-down menu on the right side of the configurator.
 
-![](../images/firmware_flasher/flasher.png)
+If you want to update the firmware, you must:
+* Connect the controller to a PC using a USB cable;
+* Press the button "Flash firmware";
+* Select a .bin file from the archive with the version you need [FreeJoy](https://github.com/vostrenkov/FreeJoy/releases);
+* Press "Ok" and wait until the progress bar reaches 100% and the following message appears:
 
-If you want to flash new firmware:
+![](../images/flasher_info.png)
 
-* Click "Flash firmware" button
-* Select **.bin** file of firmware you want to flash (it is provided in archive attached to [FreeJoy release](https://github.com/vostrenkov/FreeJoy/releases))
-* Press OK and wait progress bar to reach 100%
-* You will get a message:
+* After that, disconnect the device from the PC for 5-10 seconds and connect it again.
 
-![](../images/firmware_flasher/flasher_info.png)
-
-* When device disconnects wait 5-10 seconds, unplug device and plug it again
-
-After these steps device will be flashed with a new firmware.
+After that your controller will have a new firmware and you can begin to configure it.

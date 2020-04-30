@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-03-22T09:07:53Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Board_Type_Power_Supply_SMT_Standalone_Endversion_2"
+        },
+        "Owner": "And And <sugrob-84@mail.ru>",
+        "Size": {
+            "X": 51,
+            "Y": 62
+        }
+    }
+}
