@@ -1,13 +1,22 @@
 ADS1115 is a four-channel analog-to-digital converter (ADC). It operates on the I2C interface.
 
 ![](../images/A1.5.jpg)
- 
+
 * I2C_SCL - Common for all I2C devices (AS5600 and ADS1115 ADCs)
 * I2C_SDA - Common for all I2C devices (AS5600 and ADS1115 ADCs)
 
 As wshown on the picture above, the ADC can be bought already mounted on the board. Up to four ADS1115 can be connected to the controller (keep in mind that the total number of axes must not exceed eight). To do this, you need to set different addresses for the devices. This is done by connecting the ADDR pin to the other pins on the board. There are 4 addresses available:
 
-![](../images/A1.5.1.jpg)
+
+
+| Connecting the ADDR pin | ADS1115 address |
+| ----------------------- | --------------- |
+| GND                     | 1001000         |
+| VDD                     | 1001001         |
+| SDA                     | 1001010         |
+| SCL                     | 1001011         |
+
+
 
 The addresses assigned to the ADC boards must be remembered because they will be used in adjusting the axes.
 
