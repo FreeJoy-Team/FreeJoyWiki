@@ -23,6 +23,8 @@ FreeJoy is a customizable gaming device controller based on the low-cost STM32F1
 
 ## Axes:
 
+![](../images/A2.png)
+
 FreeJoy supports up to 8 axes. Analog inputs (potentiometers, hall sensors) on the A0-A7 terminals, digital sensors (TLE5010/5011, AS5600, MLX90393), or external ADCs (ADS1115 and MCP3201/02/04/08) can be used as sources for the axes. All axes have the following settings:
 
 * Source/destination of the axis (X, Y, Z, Rx, Ry, Rz, Slider1, Slider2);
@@ -42,6 +44,8 @@ FreeJoy supports up to 8 axes. Analog inputs (potentiometers, hall sensors) on t
 
 
 ## Buttons:
+
+![](../images/B1.png)
 
 FreeJoy supports up to 128 buttons connected as single buttons (shorting the signal contact to GND or VCC), as a matrix of buttons, via shift registers or through the axis-to-button function. Buttons can be configured as:
 
