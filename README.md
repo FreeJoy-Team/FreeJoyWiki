@@ -3,6 +3,7 @@
 ## English guide
 
 * [Project description](eng/Project-description.md)
+* [Required software](eng/Required-software.md)
 * [Flashing firmware](eng/Flashing-firmware.md)
 * [Loading and saving configuration](eng/Saving-and-loading-configuration.md)
 * [Firmware loader](eng/Firmware-flasher.md)

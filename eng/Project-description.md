@@ -7,7 +7,7 @@ FreeJoy is a customizable gaming device controller based on the low-cost STM32F1
 * Up to 8 - analog axes (output resolution 12 bits);
 * Up to 128 buttons or toggle switches;
 * Up to 4 HAT switches;
-* Up to 16 incremental encoders;
+* Up to 16 incremental encoders (1 high-resolution encoder);
 * Ability to assign button presses to certain positions of the analog axis (up to 12 buttons per axis);
 * Support for shift registers 74HC165 and CD4021 to increase the number of connected buttons;
 * Support for digital Hall sensors TLE5010/TLE5011, AS5600, MLX90393 (only SPI interface);
@@ -33,8 +33,10 @@ FreeJoy supports up to 8 axes. Analog inputs (potentiometers, hall sensors) on t
 * Axis offset (magnet offset);
 * Response curves;
 * Axis from buttons/encoders;
+* Trimming axis by buttons
+* Axis prescaler
 * Ability to generate button presses in certain axis positions (up to 12 sections).
-
+* Combined axes functions
 
 
 ## Buttons:
@@ -50,7 +52,8 @@ FreeJoy supports up to 128 buttons connected as single buttons (shorting the sig
 * Input incremental encoder;
 * Radiobutton;
 * Sequential button;
+* Sequential toggle button
 * 5 shift modificators.
 
 
-Download [latest release](https://github.com/FreeJoy-Team/FreeJoy/releases) and run the installer.
+For setting up your device configurator utility is required. Download [latest release](https://github.com/FreeJoy-Team/FreeJoy/releases) and run the installer.

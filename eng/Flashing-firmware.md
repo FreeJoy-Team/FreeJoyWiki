@@ -6,6 +6,3 @@
 ### Flashing:
 * [Flashing firmware using ST-Link v2 programmer](Flashing-firmware-with-ST-Link-programmer.md)
 * [Flashing firmware using USB-UART converter](Flashing-firmware-with-USB-UART-converter.md)
-
-### Configuration
-* [Configuration of the controller](Controller-configuration.md)

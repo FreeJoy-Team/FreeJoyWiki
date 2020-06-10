@@ -11,8 +11,11 @@ Digital sensors are connected to the controller via SPI or I2C interface (depend
 * [Connection of sensor AS5600](AS5600-connection.md)
 * [Connection of sensors MLX90393](MLX90393-connection.md)
 
+Also you can connect encoders as sources for the axes:
+
+* [Encoders connection](Encoders-connection.md)
+
 Once you connected your axes sources you can should set them up in accordance with your application:
 
 * [Axis Settings](Axis-configuration.md)
 * [Convert axis movement to button clicks](Axis-to-buttons-function.md)
-* [Convert button presses to axis movement](Buttons-encoders-to-axis-function.md)
