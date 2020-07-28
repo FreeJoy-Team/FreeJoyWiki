@@ -1,3 +1,8 @@
+
+
+
+[Start page](../README.md) | [Previous level](Axes-connection.md)
+
 MLX90393 is a digital 3-channel Hall sensor. It operates on the SPI interface.
 
 ![](../images/A1.4.jpg)
@@ -16,3 +21,7 @@ Installing a magnet for the sensor is similar to installing magnets for Hall sen
 The MLX90393 sensor can be used to monitor the most important controller axes, which are often used in simulators, and when the highest accuracy of readings is required. Given that the sensor can read the movement of the magnet along two mutually perpendicular axes, it is possible to build a joystick stick using only one such sensor. The resource of the MLX90393 sensors is almost unlimited, as they are contactless like Hall sensors.
 
 The subsequent axis settings are described in the [Axis Settings] section (Axis-configuration.md)
+
+
+[Start page](../README.md) | [Previous level](Axes-connection.md)
+
