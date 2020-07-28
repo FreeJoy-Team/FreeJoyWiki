@@ -1,3 +1,8 @@
+
+
+
+[Start page](../README.md) | [Previous level](Axes-connection.md)
+
 AS5600 is a digital single-channel Hall sensor. It works on the I2C interface.
 ![](../images/A1.3.jpg)
  
@@ -11,3 +16,8 @@ Installing a magnet for the sensor is similar to [installing magnets for the sen
 The cost of AS5600 sensors is comparable to Hall sensors. They can be used to control the most important axes of the controller, which are often used in simulators, and when the highest accuracy of readings is required. The life of the AS5600 sensors is almost unlimited, as they are contactless like Hall sensors. Their accuracy is slightly lower than the TLE5011 sensors.
 
 The subsequent axis settings are described in the [Axis Settings](Axis-configuration.md) section 
+
+
+
+[Start page](../README.md) | [Previous level](Axes-connection.md)
+
