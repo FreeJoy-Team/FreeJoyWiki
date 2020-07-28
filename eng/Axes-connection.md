@@ -1,3 +1,7 @@
+
+
+[Start page](../README.md) | [Previous level](../README.md)
+
 Analog or digital sensors can be used as sources of axes. Analog sensors can be connected directly to controller or using external ADC periphreals:
 
 * [Connection of potentiometer](Potentiometer-connection.md)
@@ -19,3 +23,6 @@ Once you connected your axes sources you can should set them up in accordance wi
 
 * [Axis Settings](Axis-configuration.md)
 * [Convert axis movement to button clicks](Axis-to-buttons-function.md)
+
+[Start page](../README.md) | [Previous level](../README.md)
+
