@@ -1,3 +1,8 @@
+
+
+
+[Start page](../README.md) | [Previous level](Buttons-connection.md)
+
 Basic definitions:
 
 * Physical button - a physically existing pair of contacts connected in some way to the controller (a single button, a button from the button matrix, a button connected to the shift register, or a toggle switch connected using one of these methods). The list of Physical buttons and their status (red - released, green - pushed) can be seen in the Physical Buttons field of the Button Config tab.
@@ -53,3 +58,8 @@ Any logical button can be used as shift modificator. In this case, the logical b
 Finally, the operation of the buttons can be checked: 
 (for Windows 10) “Start”, “Settings”, “Devices”, “Devices and Printers” with the right button on the device, “Settings for game control devices”, select the device, “Properties”. 
 For the number of buttons over 32 you can use VKB_Btn Tester program which is available [here](../3rd-party/software/).
+
+
+
+[Start page](../README.md) | [Previous level](Buttons-connection.md)
+
