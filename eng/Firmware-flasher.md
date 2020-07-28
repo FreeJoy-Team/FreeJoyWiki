@@ -1,3 +1,7 @@
+
+
+[Start page](../README.md) | [Previous level](../README.md)
+
 The firmware download function allows you to update the firmware of the device without a programmer. This function works if the controller has already been [flashed](Flashing-firmware.md) with FreeJoy firmware using the programmer. The function is available in the "Firmware flasher" field on "Advanced settings" tab:
 
 ![](../images/flasher_tab.png);
@@ -31,3 +35,7 @@ If you cannot enter bootloader mode from configurator for some reason:
 * If you entered into bootloader mode by setting jumper return all jumpers to position 0 and replug your device.
 
 After that your controller will have a new firmware and you can begin to configure it.
+
+
+[Start page](../README.md) | [Previous level](../README.md)
+
