@@ -1,3 +1,7 @@
+
+
+[Start page](../README.md) | [Previous level](../README.md)
+
 The device configuration can be saved and loaded from a file. The configuration can be read and written to the device, you can also clear the configuration and reset it to the default settings. To do this, use the buttons located on the left side of the configurator.
 
 ## Saving the configuration to file
@@ -16,3 +20,6 @@ To load a configuration from a file, click the "Load Config from File" button. S
 To read the configuration from the device, use the "Read Config from Device" button, and to write - "Write Config to Device".
 
 Clearing the configuration and resetting the default settings is done with the buttons "Reset All Pins" and "Set Default Config", respectively.
+
+[Start page](../README.md) | [Previous level](../README.md)
+
