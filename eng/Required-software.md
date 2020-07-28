@@ -1,3 +1,7 @@
+
+
+[Start page](../README.md) | [Previous level](../README.md)
+
 For starting your work with FreeJoy you will need the following software:
  
 * ST-Link Utility for flashing firmware via ST-Link v2. You gan download it from [ST official site](https://www.st.com/en/development-tools/stsw-link004.html); 
@@ -6,3 +10,7 @@ For starting your work with FreeJoy you will need the following software:
 * Latest FreeJoy Configurator release from [releases page](https://github.com/FreeJoy-Team/FreeJoyConfigurator/releases).
 
 Instructions for connection and configuration your periphery are placed on [main page](../README.md).
+
+[Start page](../README.md) | [Previous level](../README.md)
+
+
