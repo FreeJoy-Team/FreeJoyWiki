@@ -1,3 +1,5 @@
+[Start page](../README.md) | [Previous level](../README.md)
+
 # FreeJoy
 
 FreeJoy is a customizable gaming device controller based on the low-cost STM32F103C8 microcontroller. It allows you to create your own HOTAS-systems (sticks, throttles, various expansion panels), pedals, car control systems (steering wheels, pedals, gearbox shifters, etc.) and configure the designed device.
@@ -63,3 +65,6 @@ FreeJoy supports up to 128 buttons connected as single buttons (shorting the sig
 
 
 For setting up your device configurator utility is required. Download [latest release](https://github.com/FreeJoy-Team/FreeJoy/releases) and run the installer.
+
+[Start page](../README.md) | [Previous level](../README.md)
+
