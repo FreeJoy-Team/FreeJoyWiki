@@ -1,3 +1,8 @@
+
+
+
+[Start page](../README.md) | [Previous level](Axes-connection.md)
+
 MCP32XX is a family of analog-to-digital converters (ADCs). The last digit in the name indicates the number of analog channels that can be connected to the ADC. There are available one-, two-, four- and eight-channel modifications. It operates on the SPI interface.
 
 ![](../images/A1.6.jpg)
@@ -28,3 +33,7 @@ These ADC available in different cases: DIP-8, DIP-16 - for mounting in holes, S
 The ADC can be used to connect analog sensors if it is necessary to reduce the number of conductors for their connection (for example inside of the stick) or to reduce the influence of EMI on long conductors (in this case place the ADC near to the sources of the analog signal).
 
 The subsequent axis settings are described in the [Axis Settings] section (Axis-configuration.md)
+
+
+[Start page](../README.md) | [Previous level](Axes-connection.md)
+
