@@ -1,3 +1,8 @@
+
+
+
+[Start page](../README.md) | [Previous level](Buttons-connection.md)
+
 The Axis to Buttons tab is used to assign generation of button press in certain position of the axis.
 
 ![](../images/A3.jpg)
@@ -11,3 +16,8 @@ The corresponding number of physical buttons (for this example 4 pieces) will be
 ![](../images/A4.png)
  
 With these settings the logical button 1 will press at the beginning of the axis (stop the engine), logical button 2 a little later (low gas), and a logical button 4 at the end (afterburner). The axis readings will also be transmitted to the operating system if Axis enabled checkbox is checked on Axis config tab.
+
+
+
+[Start page](../README.md) | [Previous level](Buttons-connection.md)
+
