@@ -1,3 +1,7 @@
+
+
+[Start page](../README.md) | [Previous level](Flashing-firmware.md)
+
 1. Connect the programmer as shown in the figure below (check the signatures of the contacts on the programmer and controller board):
 
 ![](../images/1.jpg)
@@ -23,3 +27,6 @@
 
 9. After successful programming of the controller, disconnect all connections and connect the controller board to the computer using a MicroUSB cable.
 10. FreeJoy device is defined in the system as a game controller.
+
+
+[Start page](../README.md) | [Previous level](Flashing-firmware.md)
