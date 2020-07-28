@@ -1,3 +1,7 @@
+
+
+[Start page](../README.md) | [Previous level](Flashing-firmware.md)
+
 1. Connect the converter as shown in the figure below:
 
 ![](../images/6.jpg)
@@ -23,3 +27,6 @@
 7. Click “Next” and wait for the end of programming the controller.
 8. Set the BOOT0 jumper to position 0 and disconnect all connections.
 9. Connect the controller board to the computer using the microUSB cable. A FreeJoy device is defined in the system as a game controller.
+
+
+[Start page](../README.md) | [Previous level](Flashing-firmware.md)
