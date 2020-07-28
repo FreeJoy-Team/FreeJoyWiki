@@ -1,3 +1,8 @@
+
+
+
+[Start page](../README.md) | [Previous level](Buttons-connection.md)
+
 # Connecting buttons to shift registers using the shift register 74HC165 as an example
 ## Pin assignment:
 
@@ -22,3 +27,8 @@ There are 74HC165 and CD4021 shift registers are supported. Both chips are avail
 ![SO-16](/images/SO-16.jpg)
 
 All types of switches (buttons, toggle switches, encoders, etc.) can be connected to shift registers. Their setting is similar to [connecting buttons directly to the controller](Connecting-buttons-directly-to-controller.md)
+
+
+
+[Start page](../README.md) | [Previous level](Buttons-connection.md)
+
