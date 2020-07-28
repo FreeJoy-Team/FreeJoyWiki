@@ -1,3 +1,8 @@
+
+
+
+[Start page](../README.md) | [Previous level](Axes-connection.md)
+
 ## Assignment of logical axes:
 
 ![](../images/A2.png)
@@ -71,3 +76,8 @@ It is possible to set up to 3 buttons for each axis for these functions:
 * Prescaler_Enable - enable prescaler for this axis
 
 It is also possible to configure [converting the movement of axes to button presses](Axis-to-buttons-function.md)
+
+
+[Start page](../README.md) | [Previous level](Axes-connection.md)
+
+
