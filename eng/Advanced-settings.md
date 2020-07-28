@@ -1,3 +1,7 @@
+
+
+[Start page](../README.md) | [Previous level](../README.md)
+
 Advanced settings are located on "Advanced settings" tab:
 
 ![](../images/advanced_tab.png)
@@ -13,3 +17,6 @@ Advanced settings are located on "Advanced settings" tab:
 Bootloader field. See more at:
 
 * [Firmware flasher](Firmware-flasher.md)
+
+[Start page](../README.md) | [Previous level](../README.md)
+
