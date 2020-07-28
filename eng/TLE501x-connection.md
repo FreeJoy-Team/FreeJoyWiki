@@ -1,3 +1,8 @@
+
+
+
+[Start page](../README.md) | [Previous level](Axes-connection.md)
+
 TLE5011 and TLE5010 are single-channel digital Hall sensors. They operate on half-duplex SPI interface.
 
 ![](../images/A1.1.jpg)
@@ -22,3 +27,7 @@ The TLE5011/5010 sensors respond to a change in the direction of the axis of the
 ![](../images/A1.1.1.jpg)
 
 The subsequent axis settings are described in the [Axis Settings] section (Axis-configuration.md)
+
+
+[Start page](../README.md) | [Previous level](Axes-connection.md)
+
