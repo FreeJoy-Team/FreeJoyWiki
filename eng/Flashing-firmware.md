@@ -1,3 +1,7 @@
+
+
+[Start page](../README.md) | [Previous level](../README.md)
+
 ### Required tools:
 * BluePill board (or equivalent) with an STM32F103C8 controller;
 * ST-Link v2 programmer and ST-Link Utility (distributed free of charge: https://www.st.com/en/development-tools/stsw-link004.html);
@@ -6,3 +10,7 @@
 ### Flashing:
 * [Flashing firmware using ST-Link v2 programmer](Flashing-firmware-with-ST-Link-programmer.md)
 * [Flashing firmware using USB-UART converter](Flashing-firmware-with-USB-UART-converter.md)
+
+[Start page](../README.md) | [Previous level](../README.md)
+
+
