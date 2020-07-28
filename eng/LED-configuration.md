@@ -1,3 +1,7 @@
+
+
+[Start page](../README.md) | [Previous level](../README.md)
+
 FreeJoy support 3 PWM outputs with configurable duty cycle for LED lightning and up to 24 LEDs mappable to logical buttons states. LED configuration is available at LED tab:
 
 ![](../images/led_tab.png)
@@ -16,4 +20,8 @@ Input number is number of logical buttons which LED should be mapped to. You can
 
 * Normal - LED output is HIGH when logical button pressed
 * Inverted - LED output is LOW when logical button pressed
+
+
+
+[Start page](../README.md) | [Previous level](../README.md)
 
