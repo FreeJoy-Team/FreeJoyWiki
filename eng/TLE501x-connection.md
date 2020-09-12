@@ -7,7 +7,7 @@ TLE5011 and TLE5010 are single-channel digital Hall sensors. They operate on hal
 
 ![](../images/A1.1.jpg)
  
-** Attention: The TLE501x data line should have one 1k pull-up resistor for correct operation**.
+**Attention: The TLE501x data line should have one 1k pull-up resistor for correct operation**
 
 * SPI_SCK - Common for all SPI devices (TLE5011, MLX90393, MCP32XX and all shift register chains);
 * SPI_MOSI - common to all SPI devices;
