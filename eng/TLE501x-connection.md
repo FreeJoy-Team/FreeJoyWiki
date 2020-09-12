@@ -7,7 +7,7 @@ TLE5011 and TLE5010 are single-channel digital Hall sensors. They operate on hal
 
 ![](../images/A1.1.jpg)
  
-** Attention: The TLE5010 Hall sensor should powered by a voltage of 4.5-5V. The operation of the sensor with STM32 is not guaranteed without using voltage level shifters, and we recommend you to use TLE5011! ** (Other sensors including TLE5011 are powered from 3.3V).
+** Attention: The TLE501x data line should have one 1k pull-up resistor for correct operation**.
 
 * SPI_SCK - Common for all SPI devices (TLE5011, MLX90393, MCP32XX and all shift register chains);
 * SPI_MOSI - common to all SPI devices;
