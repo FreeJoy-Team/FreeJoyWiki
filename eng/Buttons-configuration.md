@@ -29,7 +29,7 @@ Functions for toggle switches:
 * ToggleSwich_Off - opening contacts of the toggle switch connected to the physical button generates pressing of the logical button [(the time while the logical button remains pressed is set in the Toggle Press Time field of the Advanced Settings section)](Advanced-settings.md);
 
 Functions for HAT switches (multi-position buttons/hats):
-* PovX_Down, PovX_Up, PovX_Left, PovX_Right (where X is the number of the hat) - pressing the direction down/up/left/right of the corresponding hat.
+* PovX_Down, PovX_Up, PovX_Left, PovX_Right, PovX_Center (where X is the number of the hat) - pressing the direction down/up/left/right of the corresponding hat. PovX_Center is only used for Alps RKJX hats and provides neccesary logic for its operation.
 
 Radio Button Function:
 * RadioButtonX (Where X is the number of the group of radio buttons) - all buttons belonging to one group of radio buttons will work as follows: When you press any of the physical buttons of the group all logical buttons of the group are released and only the logical button associated with the pressed physical button remains pressed. The logical button remains pressed until another physical button from this group is pressed. When the controller is turned on, the first radio button in the list will be turned on. Radio buttons can be used as shift modificators.
