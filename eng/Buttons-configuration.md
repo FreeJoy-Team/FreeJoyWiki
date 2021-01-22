@@ -24,9 +24,9 @@ Debounce time can be set for all buttons (simultaneously) in "Button debounce ti
 * Button_Toggle - toggle button, pressing of physical button inverts the state of the logical button (If the logical button was not pressed, then pressing the physical button will make it pressed until the physical button is pressed again).
 
 Functions for toggle switches:
-* ToggleSwich_OnOff - closing and opening contacts of the toggle switch connected to the physical button generates pressing of the logical button [(the time while the logical button remains pressed is set in the Toggle Press Time field of the Advanced Settings section)](Advanced-settings.md);
-* ToggleSwich_On - closing contacts of the toggle switch connected to the physical button generates pressing of the logical button [(the time while the logical button remains pressed is set in the Toggle Press Time field of the Advanced Settings section)](Advanced-settings.md);
-* ToggleSwich_Off - opening contacts of the toggle switch connected to the physical button generates pressing of the logical button [(the time while the logical button remains pressed is set in the Toggle Press Time field of the Advanced Settings section)](Advanced-settings.md);
+* ToggleSwich_OnOff - closing and opening contacts of the toggle switch connected to the physical button generates pressing of the logical button (the time while the logical button remains pressed is set by Press Timer field);
+* ToggleSwich_On - closing contacts of the toggle switch connected to the physical button generates pressing of the logical button (the time while the logical button remains pressed is set by Press Timer field);
+* ToggleSwich_Off - opening contacts of the toggle switch connected to the physical button generates pressing of the logical button (the time while the logical button remains pressed is set by Press Timer field);
 
 Functions for HAT switches (multi-position buttons/hats):
 * PovX_Down, PovX_Up, PovX_Left, PovX_Right, PovX_Center (where X is the number of the hat) - pressing the direction down/up/left/right of the corresponding hat. PovX_Center is only used for Alps RKJX hats and provides neccesary logic for its operation.
