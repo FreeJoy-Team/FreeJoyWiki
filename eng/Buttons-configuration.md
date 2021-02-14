@@ -10,7 +10,7 @@ Basic definitions:
 
 ### 3. Assignment of logical buttons (Button Config tab).
 
-![](../images/K3.png)
+![](../images/K3.jpg)
 
 1. On the Button Config tab, in the Logical buttons field in the line with the number of the logical button, you must specify the corresponding number of the physical button. (You can find out the number of a specific physical button by pushing it. In the Physical Buttons field, the circle with the number of pressed physical button is highlighted in green)
 

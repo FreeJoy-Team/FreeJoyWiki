@@ -5,7 +5,7 @@
 
 ## Assignment of logical axes:
 
-![](../images/A2.png)
+![](../images/A2.jpg)
  
 Like physical and logical buttons we must assign physical axes to the necessary logical axes.
 
@@ -20,7 +20,6 @@ In addition for multi-channel sensors ([MLX90393](MLX90393-connection.md)) and A
 In case of encoder source you should specify encoder number from "Encoders" tab.
 
 For unused axes in the project, uncheck Output enabled.
-** Unused axes will not be displayed by the operating environment if the “Dinamic HID config” checkbox is set to the [HID Settings](Advanced-settings.md) **
 
 The red scale "Out" shows what values ​​of the logical axis are issued to the operating system, the green scale "Raw" shows what values ​​of the physical axis the controller receives from the sensor.
 

@@ -10,11 +10,29 @@ An example of connecting a shift register board is shown below:
 
 ![](../images/S1.jpg)
 
+PCB for shift registers may be bought pre-made or made by yourself. Purchased shift register pcb example:
+![](../images/74hc165_pcb.jpg)
+
+Files for DIY shift registers board may be found here:
+https://github.com/FreeJoy-Team/FreeJoyWiki/blob/master/3rd-party/hardware/MMJoy2_74HC165.lay6
+
 * SPI_SCK - Common for all TLE5011 and all shift register chains.
 * ShiftReg_DATA - individual for each chain of shift registers (Here, the second chain of shift registers is connected to pins A7, A6)
 * ShiftReg_LATCH - may be common or individual for all shift registers chains
 
 It is recommended to connect shift registers VCC to +3.3V.
+
+Different boards and shift registers have different pin names. See the table below:
+
+| Name in configurator | 74HC165 pin | CD4021 pin | Alternative pin names |
+|---------------------|------------------|-----------------|---------------|
+|       SPI_SCK       |       CLK        |      CLOCK      |     SCK               |
+|    ShiftReg_DATA    |        Qh        |        Q8       |     DATA/SERIAL_OUT/OUT |
+|    ShiftReg_LATCH   |       SH/LD      | PAR/SER CONTROL |     LATCH             |
+|         3.3V        |        VCC       |       VDD       |     5V/V+  |
+|         GND         |        GND       |       VSS       |     V-        |
+|    -------------    |        SER       |  SERIAL IN      |     INPUT/DATA_IN/IN |
+|    -------------    |     CLK_INH      |    ------------ |     CE |
 
 ## Assigning the number of shift registers.
 
