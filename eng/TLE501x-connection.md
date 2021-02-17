@@ -11,7 +11,7 @@ TLE5011 and TLE5010 are single-channel digital Hall sensors. They operate on hal
 
 * SPI_SCK - Common for all SPI devices (TLE5011, MLX90393, MCP32XX and all shift register chains);
 * SPI_MOSI - common to all SPI devices;
-* TLE5011_GEN - common to all TLE5011;
+* TLE5011_GEN - common to all TLE5011. At some boards may be named as MISO;
 * TLE5011_CS - individual for each TLE5011.
 
 The cost of the TLE5010 and TLE5011 sensors is comparable to the Hall sensors. They are recommended to be used to control the most important axes of the controller, which are often used in simulators and when the highest accuracy of readings is required. The resource of TLE sensors is almost unlimited as they are contactless like Hall sensors.
