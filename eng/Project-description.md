@@ -16,7 +16,7 @@ FreeJoy is a customizable gaming device controller based on the low-cost STM32F1
 * Support for shift registers 74HC165 and CD4021 to increase the number of connected buttons;
 * Support for digital Hall sensors TLE5010/TLE5011, TLE5012B, AS5048A, AS5600, MLX90393 (only SPI interface);
 * Support for external ADCs ADS1115 and MCP3201/02/04/08;
-* 3 channels PWM for backlight control;
+* 4 channels PWM for backlight control;
 * 24 LEDs (single or in the matrix), mapped to the states of the buttons;
 * Setting the device name and other USB parameters;
 * Convenient utility for configuration;
