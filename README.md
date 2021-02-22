@@ -26,17 +26,21 @@
 * [Дополнительные настройки](rus/Продвинутые-настройки.md)
 
 ## 简体中文指南
-
+### 关于FreeJoy
 * [项目描述](chs/项目描述.md)
-* [必需的软件](chs/必需的软件.md)
-* [固件刷写前的准备](chs/固件刷写前的准备.md)
+### 准备开始
+* Windows:
+    * [必需的软件](chs/必需的软件.md)
+    * [固件刷写前的准备](chs/固件刷写前的准备.md)
+* Linux:
+    * [Linux指南](chs/Linux指南.md) *由衷感谢[piccaso](https://github.com/piccaso)提供了这篇指南的原文*
+### 开
 * [固件刷写](chs/固件刷写.md)
 * [读取和保存配置文件](chs/读取和保存配置文件.md)
 * [配置按钮](chs/配置按钮.md)
 * [配置轴](chs/配置轴.md)
 * [配置LED](chs/配置LED.md)
 * [高级设置](chs/高级设置.md)
-* [Linux指南](chs/Linux指南.md)
 
 
 ### References
