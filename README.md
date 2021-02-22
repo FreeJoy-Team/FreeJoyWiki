@@ -25,6 +25,19 @@
 * [Подключение светодиодов](rus/Подключение-светодиодов.md)
 * [Дополнительные настройки](rus/Продвинутые-настройки.md)
 
+## 简体中文指南
+
+* [项目描述](chs/项目描述.md)
+* [必需的软件](chs/必需的软件.md)
+* [固件刷写前的准备](chs/固件刷写前的准备.md)
+* [固件刷写](chs/固件刷写.md)
+* [读取和保存配置文件](chs/读取和保存配置文件.md)
+* [配置按钮](chs/配置按钮.md)
+* [配置轴](chs/配置轴.md)
+* [配置LED](chs/配置LED.md)
+* [高级设置](chs/高级设置.md)
+* [Linux指南](chs/Linux指南.md)
+
 
 ### References
 * Thanks [Reksotiv](https://github.com/Reksotiv) for the great contribution to the development
