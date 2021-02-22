@@ -32,14 +32,13 @@
 ### 关于FreeJoy
 * [x] [项目描述](chs/项目描述.md) 
 ### 开始前的准备
-#### 软件准备
-* Windows:
+* 「Windows」:
     * [x] [必需的软件](chs/必需的软件.md)
-    * [x] [固件刷写前的准备](chs/固件刷写前的准备.md)
-* Linux:
+    * [x] [固件刷写](chs/固件刷写.md)
+* 「Linux」:
     * [ ] [Linux指南](eng/Linux-Guide.md)   *由衷感谢 [piccaso](https://github.com/piccaso)提供了这篇指南的原文*
-#### 硬件准备
-* [ ] [固件刷写](chs/固件刷写.md)
+### 
+* [ ] [通过FreeJoy配置程序更新固件](eng/Firmware-flasher.md) (需要完成刷写固件)
 ### 硬件配置
 * [ ] [配置轴](eng/Axes-connection.md)
 * [ ] [配置按钮](eng/Buttons-connection.md)
