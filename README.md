@@ -34,7 +34,7 @@
     * [必需的软件](chs/必需的软件.md)
     * [固件刷写前的准备](chs/固件刷写前的准备.md)
 * Linux:
-    * [Linux指南](chs/Linux指南.md) *由衷感谢[piccaso](https://github.com/piccaso)提供了这篇指南的原文*
+    * [Linux指南](chs/Linux指南.md)   *由衷感谢 [piccaso](https://github.com/piccaso)提供了这篇指南的原文*
 #### 硬件准备
 * [固件刷写](chs/固件刷写.md)
 ### 硬件配置
