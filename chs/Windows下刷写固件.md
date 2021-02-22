@@ -1,4 +1,4 @@
-[开始页](../README.md) | [上一页](../README.md)
+[开始页](../README.md) | [上一页](../README.md) | [English](../eng/Flashing-firmware.md)
 
 ### 所需工具:
 * BluePill 开发板（或相似的）基于STM32F103C8片载系统的开发板;
@@ -9,4 +9,4 @@
 * [通过 ST-Link v2 programmer 刷写固件](通过ST-Link-v2-programmer刷写固件.md)
 * [通过 USB-UART转换器 刷写固件](通过USB-UART转换器刷写固件.md)
 
-[开始页](../README.md) | [上一页](../README.md)
+[开始页](../README.md) | [上一页](../README.md) | [English](../eng/Flashing-firmware.md)
