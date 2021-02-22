@@ -27,23 +27,23 @@
 
 ## 简体中文指南
 ### 关于FreeJoy
-* [x][项目描述](chs/项目描述.md) 
+* [x] [项目描述](chs/项目描述.md) 
 ### 开始前的准备
 #### 软件准备
 * Windows:
-    * [x][必需的软件](chs/必需的软件.md)
-    * [x][固件刷写前的准备](chs/固件刷写前的准备.md)
+    * [x] [必需的软件](chs/必需的软件.md)
+    * [x] [固件刷写前的准备](chs/固件刷写前的准备.md)
 * Linux:
-    * [ ][Linux指南](eng/Linux-Guide.md)   *由衷感谢 [piccaso](https://github.com/piccaso)提供了这篇指南的原文*
+    * [ ] [Linux指南](eng/Linux-Guide.md)   *由衷感谢 [piccaso](https://github.com/piccaso)提供了这篇指南的原文*
 #### 硬件准备
-* [ ][固件刷写](chs/固件刷写.md)
+* [ ] [固件刷写](chs/固件刷写.md)
 ### 硬件配置
-* [ ][配置轴](eng/Axes-connection.md)
-* [ ][配置按钮](eng/Buttons-connection.md)
-* [ ][配置LED](eng/LED-configuration.md)
+* [ ] [配置轴](eng/Axes-connection.md)
+* [ ] [配置按钮](eng/Buttons-connection.md)
+* [ ] [配置LED](eng/LED-configuration.md)
 ### 更多
-* [ ][读取和保存配置文件](eng/Saving-and-loading-configuration.md)
-* [ ][高级设置](eng/Advanced-settings.md)
+* [ ] [读取和保存配置文件](eng/Saving-and-loading-configuration.md)
+* [ ] [高级设置](eng/Advanced-settings.md)
 
 
 ### References
