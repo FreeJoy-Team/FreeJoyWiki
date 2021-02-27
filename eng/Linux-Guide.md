@@ -34,14 +34,10 @@ stm32flash -b 115200 -w build/FreeJoy.bin -v /dev/ttyUSB0
 * Connect your BluePill device to your PC with an USB cable. FreeJoy device should now appear in your system as a game controller.
 
 ## Configuration
-After flash downloading FreeJoy device is set to its default configuration:
 
-<img src="https://camo.githubusercontent.com/5af959eac151147ef76863218b14f2dc473e91d9/68747470733a2f2f612e726164696b616c2e72752f6132392f313830372f33622f3931316235383635346162372e6a7067">
+There is a [FreeJoyConfiguratorQt](https://github.com/FreeJoy-Team/FreeJoyConfiguratorQt) tool for Windows/Linux.
 
-There is a [FreeJoy Configurator](https://github.com/vostrenkov/FreeJoyConfigurator) for Windows (which may run on [Wine](https://www.winehq.org/) ...) but you can also change the configuration by editing [main.h](https://github.com/vostrenkov/FreeJoy/blob/master/Inc/main.h).  
-
-In that case you have to build the project and need the [arm-toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) ([Debian](https://packages.debian.org/gcc-arm-none-eabi), [Ubuntu](https://packages.ubuntu.com/gcc-arm-none-eabi)) and `make` to do so.  
-After customizing `main.h` run `make` and you should have a fresh build in `build/FreeJoy.bin` which can then be flashed with the method described above.
+You may want to build the project yourself and need the [arm-toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) ([Debian](https://packages.debian.org/gcc-arm-none-eabi), [Ubuntu](https://packages.ubuntu.com/gcc-arm-none-eabi)) and `make` to do so. Detailed instructions for building are placed in /armgcc folder of the project.
 
 [Start page](../README.md) | [Previous level](../README.md)
 
