@@ -9,7 +9,7 @@
 * [Firmware loader](eng/Firmware-flasher.md)
 * [Buttons setup](eng/Buttons-connection.md)
 * [Axes setup](eng/Axes-connection.md)
-* [LED setup](eng/LED-configuration.md)
+* [LED setup](eng/LED-connection.md)
 * [Advanced settings](eng/Advanced-settings.md)
 * [Linux guide](eng/Linux-Guide.md)
 
