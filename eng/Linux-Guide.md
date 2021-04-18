@@ -35,7 +35,7 @@ stm32flash -b 115200 -w build/FreeJoy.bin -v /dev/ttyUSB0
 
 ## Configuration
 
-There is a [FreeJoyConfiguratorQt](https://github.com/FreeJoy-Team/FreeJoyConfiguratorQt) tool for Windows/Linux.
+There is a [FreeJoyConfiguratorQt](https://github.com/FreeJoy-Team/FreeJoyConfiguratorQt) tool for Windows/Linux. Linux games (ubuntu, others not tested) need at least 1 logical button and X Y axes with enabled output. Otherwise, the games will not see the controller.
 
 You may want to build the project yourself. In this case you need the [arm-toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) ([Debian](https://packages.debian.org/gcc-arm-none-eabi), [Ubuntu](https://packages.ubuntu.com/gcc-arm-none-eabi)) and `make` to do so. Detailed instructions for building are placed in /armgcc folder of the project.
 
