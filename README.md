@@ -39,7 +39,7 @@
 * 「 Linux 」:
     * [ ] [Linux下刷写固件](eng/Linux-Guide.md)   *由衷感谢 [piccaso](https://github.com/piccaso)提供了这篇指南的原文*
 ### 
-* [ ] [通过FreeJoy配置程序更新固件](eng/Firmware-flasher.md) (需要完成刷写固件)
+* [ ] [通过FreeJoy配置程序更新固件](chs/通过FreeJoy配置程序更新固件.md) (需要完成刷写固件)
 ### 硬件配置
 * [ ] [配置轴](eng/Axes-connection.md)
 * [ ] [配置按钮](eng/Buttons-connection.md)
