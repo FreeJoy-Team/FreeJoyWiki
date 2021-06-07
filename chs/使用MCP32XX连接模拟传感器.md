@@ -2,36 +2,35 @@
 
 [开始页](../README.md) | [上一页](轴的连接.md) | [English](../eng/Connecting-analog-axes-to-MCP320x.md)
 
-MCP32XX is a family of analog-to-digital converters (ADCs). The last digit in the name indicates the number of analog channels that can be connected to the ADC. There are available one-, two-, four- and eight-channel modifications. It operates on the SPI interface.
+MCP32XX是一个系列的模拟数字转换器（ADCs）。有1通道、2通道、4通道和8通道等型号，名称中的最后一个数字代表能够连接的模拟通道数量。MCP32XX使用SPI接口工作。
 
 ![](../images/A1.6.jpg)
  
-SPI_SCK - Common for all SPI devices (TLE5011, MLX90393, MCP32XX and all shift register chains);
-SPI_MISO - data input, common to all SPI devices;
-SPI_MOSI - common to all SPI devices;
-MCP320x_CS - individual for each ADC.
+* SPI_SCK - 时钟信号，对所有SPI设备都一样（TLE5011, MLX90393, MCP32XX和所有的移位寄存器）；
+* SPI_MISO - 主设备数据输入，从设备输出，对所有SPI设备都一样；
+* SPI_MOSI - 主设备数据输出，从设备输入，对所有SPI设备都一样；
+* MCP320x_CS - 片选信号，每个ADC单独连接。
 
-Other modifications of the ADC are connected in the same way. The pinout of the various modifications of the MCP32XX is shown below:
+其它型号的ADC使用同样的方式连接。不同型号的MCP32XX的引脚分配图如下：
 
 ![](../images/A1.6.1.jpg)
 
-We have never seen MCP32XX chips to be in sale already mounted to pcb, so we recommend either manufacturing the board yourself.
+我们还从没看到过有已经安装在PCB板上的MCP32XX芯片，所以我们建议自己设计PCB板。
 
-Or you can use a riser, such as this one for the MCP3201 and MCP3202:
+或者你可以使用转接板，比如MCP3201和MCP3202可以用这个：
 
 ![](../images/SO-8.jpg)
 
-or such for MCP3204 and MCP3208:
+或者MCP3204和MCP3208可以用这个：
 
 ![](../images/SO-16.jpg)
 
-These ADC available in different cases: DIP-8, DIP-16 - for mounting in holes, SO-8, SO-16 for surface mounting on a board. The risers shown above are designed for ADCs in SO-8, SO-16 packages.
+这些ADC有不同的封装选择：DIP-8、DIP-16用于直插安装，SO-8、SO-16用于贴片安装。上面的转接板是为SO-8、SO-16封装的ADCs设计的。
 
-[Potentiometers](Potentiometer-connection.md), [Hall sensors](Hall-sensors-connection.md) or any other type of analog with output signal range from 0 to 3.3V can be used as sources of signal for external ADC.
+[电位器](./电位器的连接.md)、[霍尔传感器](./霍尔传感器的连接.md)或者任何其它类型的模拟传感器，只要它们的输出信号范围在0-3.3V之间，就可以用作外部ADC的信号源。
 
-The ADC can be used to connect analog sensors if it is necessary to reduce the number of conductors for their connection (for example inside of the stick) or to reduce the influence of EMI on long conductors (in this case place the ADC near to the sources of the analog signal).
+当需要减少传感器的连线数量时（比如在摇杆中），或者是需要减少长导线的电磁干扰时（在这种情况下需要把ADC连接在离模拟信号源近的地方），可以使用ADC连接模拟传感器。
 
-The subsequent axis settings are described in the [Axis Settings] section (Axis-configuration.md)
-
+[轴的配置](轴的配置.md)部分会说明接下来在FreeJoy的配置程序中如何配置轴。
 
 [开始页](../README.md) | [上一页](轴的连接.md) | [English](../eng/Connecting-analog-axes-to-MCP320x.md)
