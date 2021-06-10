@@ -41,8 +41,8 @@
 ### 
 * [x] [通过FreeJoy配置程序更新固件](chs/通过FreeJoy配置程序更新固件.md) (需要完成刷写固件)
 ### 硬件配置
-* [ ] [配置轴](chs/轴的连接.md)
-* [ ] [配置按钮](eng/Buttons-connection.md)
+* [x] [配置轴](chs/轴的连接.md)
+* [x] [配置按钮](eng/Buttons-connection.md)
 * [ ] [配置LED](eng/LED-configuration.md)
 ### 更多
 * [ ] [读取和保存配置文件](eng/Saving-and-loading-configuration.md)
