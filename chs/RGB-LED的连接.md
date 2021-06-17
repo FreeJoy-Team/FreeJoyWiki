@@ -1,6 +1,6 @@
 
 
-[开始页](../README.md) | [上一页](./LED的连接.md) | [English](../eng/LED-connection.md)
+[开始页](../README.md) | [上一页](./LED的连接.md) | [English](../eng/RGB-LED-configuration.md)
 
 ## RGB LEDs 的连接
 
@@ -16,4 +16,4 @@ FreeJoy支持连接LEDs到四个可以调节亮度的通道。如果通过LED的
 
 图中，在左侧的“PWM”区域可以为LEDs分配可以调节亮度。你可以为每个通道指定百分比亮度。
 
-[开始页](../README.md) | [上一页](./LED的连接.md) | [English](../eng/LED-connection.md)
+[开始页](../README.md) | [上一页](./LED的连接.md) | [English](../eng/RGB-LED-configuration.md)

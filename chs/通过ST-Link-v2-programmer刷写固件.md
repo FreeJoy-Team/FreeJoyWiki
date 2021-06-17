@@ -32,4 +32,4 @@
 
 10. 现在可以电脑上看到一个显示为游戏控制器的FreeJoy设备。
 
-[开始页](../README.md) | [上一页](Windows下刷写固件.md)
+[开始页](../README.md) | [上一页](Windows下刷写固件.md) | [English](../eng/Flashing-firmware-with-ST-Link-programmer.md)
