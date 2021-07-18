@@ -16,7 +16,7 @@
 ![](../images/3.jpg)
 
 На этом этапе может оказаться, что выдается такое сообщение: "STM32 cannot read memory. Disable read out protection and retry".
-Для того, что бы продолжить прошивку, необходимо натажать: пункты меню "Target", "Option Bytes" в окошке "Read Out Protection" (в левом верхнем углу) заменить "Enabled" на "Disabled" и нажать "Apply".
+Для того, что бы продолжить прошивку, необходимо нажать: пункты меню "Target", "Option Bytes" в окошке "Read Out Protection" (в левом верхнем углу) заменить "Enabled" на "Disabled" и нажать "Apply".
 
 6. Нажмите "Targert->Erase chip" и "OK" в открывшемся окне;
 
