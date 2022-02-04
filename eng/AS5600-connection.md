@@ -28,6 +28,8 @@ The subsequent axis setup is described in the section [Axis Setup] (Axis-configu
 
 As you can see from the figure with this connection the AS5600 may work like a normal analog hall sensor and the signal level at the output (OUT) changes from 0 to 3.3 V, when the magnet is rotated 360 degrees. Thus you can connect up to 8 sensors to the contacts of the controller A0 - A7.
 
+*Note: you may need to desolder resistor R4 to get sensor work in analog mode*
+
 The AS6500 allows you to reprogram the angle of rotation of the magnet, so that the voltage change from 0 to 3.3 v occurs when the magnet is rotated by a smaller angle. This allows you to achieve much higher accuracy than a conventional Hall sensor. **Angle programming can be done only once. The sensor rotation angle cannot be reprogrammed.** Therefore, it is recommended to perform such programming on the sensor already installed in the device you are assembling.
 
 #### Reprogramming the angle of rotation of the magnet for the AS5600:
