@@ -57,6 +57,6 @@
 
 * Thanks [Reksotiv](https://github.com/Reksotiv) for the great contribution to the development
 * Thanks [Johnet1](https://github.com/Johnet1) for russian instructions
-* Thanks [sht2017](https://github.com/sht2017) and [SilentCA](https://github.com/SilentCA) for simplified chinese instructions localization
+* Thanks [sht2017](https://github.com/sht2017), [SilentCA](https://github.com/SilentCA), [Clara](https://github.com/claraqwq) for simplified chinese instructions localization
 * Thanks [piccaso](https://github.com/piccaso) for Linux guide
 * Thanks to [OpenSimHardware](https://github.com/OpenSimHardware) with [Pedal & Button Controller](https://github.com/OpenSimHardware/PedalButtonController) project for the idea and the inspiration.
