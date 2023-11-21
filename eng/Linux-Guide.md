@@ -18,11 +18,11 @@ USB-UART converter
 
 * Set jumper for BOOT0 to 1 position:
 
-<img src="https://forum.movimentomaker.pt/uploads/default/original/1X/d2fec4547aef853b6331c7b8323b3beb324bc3ba.jpg" height=400>
+![](../images/7.jpg)
 
 * Connect USB-UART converter to your PC
 * Upload binary to the board.
-    - Make sure to use the .bin version.
+    - Make sure to use the **.hex** version.
     - Adjust `ttyUSB0` if your USB port is different.
     - If you have problems connecting to the board try lower baud rates like `-b 9600`.
 
