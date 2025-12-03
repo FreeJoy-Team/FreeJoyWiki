@@ -18,7 +18,7 @@
 
 * 将BOOT0跳线设置到位置1：
 
-<img src="https://forum.movimentomaker.pt/uploads/default/original/1X/d2fec4547aef853b6331c7b8323b3beb324bc3ba.jpg" height=400>
+![](../images/7.jpg)
 
 * 将USB-UART模块连接到电脑
 * 将二进制固件上传到板子
